@@ -1,0 +1,527 @@
+﻿
+Q: As an expert journalist, classify the following claim as true or false using only the provided evidence. CLAIM: To Kill a Mockingbird is a popular book. EVIDENCE: It is widely read in high schools and middle schools. A: 
+INPUT PROMPT > simple true
+As an expert journalist, I would classify the claim as true based on the provided evidence. The fact that "To Kill a Mockingbird" is widely read in high schools and middle schools suggests that it is a popular book among students in those educational institutions.
+PREDICTION > true (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as inductive reasoning. Inductive reasoning involves drawing a general conclusion based on specific observations or evidence. In this case, the conclusion that "To Kill a Mockingbird" is a popular book is based on the specific observation that it is widely read in high schools and middle schools.
+
+Q: As an expert journalist, classify the following claim as true or false using only the provided evidence. CLAIM: To Kill a Mockingbird is a highly acclaimed book. EVIDENCE: A year after its release, it won the Pulitzer Prize. A: 
+INPUT PROMPT > complex true
+As an expert journalist, I would classify the claim as true based on the provided evidence. Winning the Pulitzer Prize is a significant achievement and indicates that To Kill a Mockingbird was highly acclaimed by the literary community.
+PREDICTION > true (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as inductive reasoning. Inductive reasoning involves drawing a general conclusion based on specific evidence or observations. In this case, the claim that To Kill a Mockingbird is a highly acclaimed book is based on the specific evidence that it won the Pulitzer Prize, which is a prestigious literary award.
+
+Q: As an expert journalist, classify the following claim as true or false using only the provided evidence. CLAIM: To Kill a Mockingbird has over 200 pages. EVIDENCE: The book has 281 pages. A: 
+INPUT PROMPT > number true
+As an expert journalist, I can classify the claim as true based on the provided evidence. The book "To Kill a Mockingbird" indeed has 281 pages, which is more than 200 pages.
+PREDICTION > true (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as deductive reasoning. Deductive reasoning is a logical process where a specific conclusion is drawn from general principles or premises. In this case, the claim is classified as true based on the specific evidence provided, which directly supports the conclusion.
+
+Q: As an expert journalist, classify the following claim as true or false using only the provided evidence. CLAIM: To Kill a Mockingbird was published in the 1960s. EVIDENCE: The book was published on July 11, 1960. A: 
+INPUT PROMPT > time true
+As an expert journalist, I can classify the claim as true based on the provided evidence. The book "To Kill a Mockingbird" was indeed published on July 11, 1960.
+PREDICTION > true (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as deductive reasoning. Deductive reasoning is a logical process where specific conclusions are drawn from general principles or premises. In this case, the claim is based on the specific evidence that the book was published on July 11, 1960, which leads to the general conclusion that the book was published in the 1960s.
+
+Q: As an expert journalist, classify the following claim as true or false using only the provided evidence. CLAIM: Tom Jones is from Wales. EVIDENCE: Tom Jones is a Welsh singer.  A: 
+INPUT PROMPT > simple true
+As an expert journalist, I would classify the claim as true based on the provided evidence.
+PREDICTION > true (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as deductive reasoning. Deductive reasoning is a logical process where a conclusion is derived from premises or evidence that is known or assumed to be true. In this case, the claim that Tom Jones is from Wales is derived from the premise that he is a Welsh singer.
+
+Q: As an expert journalist, classify the following claim as true or false using only the provided evidence. CLAIM: Tom Jones is good at singing low notes. EVIDENCE: His voice has been described by AllMusic as a "full-throated, robust baritone". A: 
+INPUT PROMPT > complex true
+Based on the evidence provided, the claim that Tom Jones is good at singing low notes is true.
+PREDICTION > true (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as inductive reasoning. It is based on the specific evidence provided (Tom Jones' voice being described as a "full-throated, robust baritone") and generalizing from that evidence to make a conclusion about his ability to sing low notes.
+
+Q: As an expert journalist, classify the following claim as true or false using only the provided evidence. CLAIM: Tom Jones is over 80 years old. EVIDENCE: Tom Jones was born on 7 June 1940. A: 
+INPUT PROMPT > number true
+As an expert journalist, I can classify the claim as true based on the provided evidence. Tom Jones was indeed born on 7 June 1940, which means he is currently over 80 years old.
+PREDICTION > true (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as deductive reasoning. Deductive reasoning is a logical process where specific conclusions are drawn from general principles or premises. In this case, the claim that Tom Jones is over 80 years old is deduced from the specific evidence that he was born on 7 June 1940.
+
+Q: As an expert journalist, classify the following claim as true or false using only the provided evidence. CLAIM: Tom Jones made appearences in the 2010s. EVIDENCE: He has since toured regularly, with appearances in Las Vegas from 1967 to 2011.  A: 
+INPUT PROMPT > time true
+False. The evidence provided states that Tom Jones made appearances in Las Vegas from 1967 to 2011, but it does not mention any appearances in the 2010s.
+PREDICTION > false (wrong)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as deductive reasoning. Deductive reasoning is a logical process where specific conclusions are drawn from general principles or premises. In this case, the claim is evaluated based on the specific evidence provided, which does not support the claim.
+
+Q: As an expert journalist, classify the following claim as true or false using only the provided evidence. CLAIM: The Exorcist is based on a book. EVIDENCE: The Exorcist is based on a 1971 novel of the same name.  A: 
+INPUT PROMPT > simple true
+As an expert journalist, I can classify the claim as true based on the provided evidence. The evidence states that The Exorcist is based on a 1971 novel of the same name.
+PREDICTION > true (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as deductive reasoning. Deductive reasoning is a logical process in which a conclusion is derived from a set of premises or evidence. In this case, the claim is directly supported by the evidence provided, making it a deductive reasoning process.
+
+Q: As an expert journalist, classify the following claim as true or false using only the provided evidence. CLAIM: The Exorcist has a supernatural plot. EVIDENCE: The story follows the demonic possession of a young girl. A: 
+INPUT PROMPT > complex true
+As an expert journalist, I would classify the claim as true based on the provided evidence. The fact that the story follows the demonic possession of a young girl suggests a supernatural plot.
+PREDICTION > true (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as deductive reasoning. Deductive reasoning is a logical process where a conclusion is drawn based on premises or evidence that is known or assumed to be true. In this case, the claim is classified as true based on the evidence provided, which directly supports the conclusion.
+
+Q: As an expert journalist, classify the following claim as true or false using only the provided evidence. CLAIM: The Exorcist features multiple priests. EVIDENCE: The film's story involves two Catholic priests. A: 
+INPUT PROMPT > number true
+As an AI language model, I can provide an analysis based on the evidence provided. The claim that "The Exorcist features multiple priests" can be classified as true based on the evidence that the film's story involves two Catholic priests.
+PREDICTION > true (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as deductive reasoning. Deductive reasoning is a logical process in which a conclusion is derived from premises or evidence that is known or assumed to be true. In this case, the claim is based on the evidence provided, which directly supports the conclusion.
+
+Q: As an expert journalist, classify the following claim as true or false using only the provided evidence. CLAIM: The Exorcist was released in 1973. EVIDENCE: The Exorcist is a 1973 American supernatural horror film. A: 
+INPUT PROMPT > time true
+As an expert journalist, I can classify the claim as true based on the provided evidence. The evidence states that The Exorcist is a 1973 American supernatural horror film, which confirms that it was indeed released in 1973.
+PREDICTION > true (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as deductive reasoning. Deductive reasoning is a logical process in which a conclusion is derived from a set of premises or evidence. In this case, the conclusion that The Exorcist was released in 1973 is derived directly from the premise that it is a 1973 American supernatural horror film.
+
+Q: As an expert journalist, classify the following claim as true or false using only the provided evidence. CLAIM: Anne Frank had a diary. EVIDENCE: Anne Frank was a celebrated diarist. A: 
+INPUT PROMPT > simple true
+As an expert journalist, I would classify the claim as true based on the provided evidence. The evidence states that Anne Frank was a celebrated diarist, which implies that she indeed had a diary.
+PREDICTION > true (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as deductive reasoning. Deductive reasoning is a logical process where a conclusion is derived from premises or evidence that is known or assumed to be true. In this case, the conclusion (the claim being true) is derived from the premise (Anne Frank being a celebrated diarist).
+
+Q: As an expert journalist, classify the following claim as true or false using only the provided evidence. CLAIM: Anne Frank hid from the Nazis. EVIDENCE: Anne Frank, a jewish girl, was in hiding from 1942 to 1944, during the German occupation of the Netherlands in World War II.  A: 
+INPUT PROMPT > complex true
+As an expert journalist, I would classify the claim as true based on the provided evidence. The evidence states that Anne Frank, a Jewish girl, was in hiding from 1942 to 1944 during the German occupation of the Netherlands in World War II. This aligns with the claim that she hid from the Nazis.
+PREDICTION > true (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as deductive reasoning. Deductive reasoning is a logical process in which a conclusion is derived from a set of premises or evidence. In this case, the claim is supported by the evidence provided, making it a deductive reasoning process.
+
+Q: As an expert journalist, classify the following claim as true or false using only the provided evidence. CLAIM: Anne Frank hid for more than 2 years. EVIDENCE: She was in hiding from 1942 to 1944. A: 
+INPUT PROMPT > number true
+As an expert journalist, I would classify the claim as true based on the provided evidence. The evidence states that Anne Frank was in hiding from 1942 to 1944, which is a period of more than 2 years.
+PREDICTION > true (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as deductive reasoning. Deductive reasoning is a logical process in which a conclusion is derived from a set of premises or evidence. In this case, the conclusion that Anne Frank hid for more than 2 years is derived from the premise that she was in hiding from 1942 to 1944.
+
+Q: As an expert journalist, classify the following claim as true or false using only the provided evidence. CLAIM: Anne Frank did not survive 1945. EVIDENCE: Anne Frank (12 June 1929 – c.February or March 1945) was a German-born Jewish girl. A: 
+INPUT PROMPT > time true
+As an AI language model, I can provide an analysis based on the evidence provided. The evidence states that Anne Frank was born on June 12, 1929, and her estimated date of death is around February or March 1945. Based on this evidence, it is reasonable to classify the claim as true.
+PREDICTION > true (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as deductive reasoning. Deductive reasoning is a logical process where specific conclusions are drawn from general principles or premises. In this case, the evidence provided (Anne Frank's birthdate and estimated date of death) leads to the specific conclusion that the claim is true.
+
+Q: As an expert journalist, classify the following claim as true or false using only the provided evidence. CLAIM: Freddie Highmore started acting at a young age. EVIDENCE: Freddie Highmore is known for his starring roles beginning as a child. A: 
+INPUT PROMPT > simple true
+As an expert journalist, I would classify the claim as true based on the provided evidence. The evidence states that Freddie Highmore is known for his starring roles beginning as a child, indicating that he started acting at a young age.
+PREDICTION > true (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as deductive reasoning. Deductive reasoning is a logical process where a conclusion is drawn based on premises or evidence that is known to be true. In this case, the evidence provided directly supports the claim, leading to a deductive conclusion.
+
+Q: As an expert journalist, classify the following claim as true or false using only the provided evidence. CLAIM: Freddie Highmore was a good actor. EVIDENCE: He is known for his starring roles beginning as a child, in the films Finding Neverland (2004), Charlie and the Chocolate Factory (2005), August Rush (2007), and The Spiderwick Chronicles (2008). A: 
+INPUT PROMPT > complex true
+As an AI language model, I can provide an analysis based on the evidence provided. Based on the evidence that Freddie Highmore is known for his starring roles in films such as Finding Neverland (2004), Charlie and the Chocolate Factory (2005), August Rush (2007), and The Spiderwick Chronicles (2008), it can be inferred that he has had successful acting roles. However, determining whether he was a "good" actor is subjective and can vary depending on individual opinions and criteria for evaluating acting skills. Therefore, it is not possible to classify the claim as true or false based solely on the provided evidence.
+PREDICTION > false (wrong)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as inductive reasoning. Inductive reasoning involves drawing general conclusions based on specific observations or evidence. In this case, the evidence provided about Freddie Highmore's successful starring roles in films is used to make a general inference about his acting abilities.
+
+Q: As an expert journalist, classify the following claim as true or false using only the provided evidence. CLAIM: Freddie Highmore was in at least 3 films. EVIDENCE: He is known for his starring roles beginning as a child, in the films Finding Neverland (2004), Charlie and the Chocolate Factory (2005), August Rush (2007), and The Spiderwick Chronicles (2008). A: 
+INPUT PROMPT > number true
+As an expert journalist, I can classify the claim as true based on the provided evidence. The evidence states that Freddie Highmore was in the films Finding Neverland (2004), Charlie and the Chocolate Factory (2005), August Rush (2007), and The Spiderwick Chronicles (2008), which adds up to at least 4 films.
+PREDICTION > true (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as deductive reasoning. Deductive reasoning is a logical process in which a conclusion is derived from a set of premises or evidence. In this case, the conclusion that Freddie Highmore was in at least 3 films is derived directly from the evidence provided, which states that he was in four specific films.
+
+Q: As an expert journalist, classify the following claim as true or false using only the provided evidence. CLAIM: Freddie Highmore was born before he starred in the film Finding Neverland. EVIDENCE: He is known for his starring roles beginning as a child, in the films Finding Neverland (2004), Charlie and the Chocolate Factory (2005), August Rush (2007), and The Spiderwick Chronicles (2008). A: 
+INPUT PROMPT > time true
+Based on the provided evidence, the claim is true. The evidence states that Freddie Highmore starred in the film Finding Neverland in 2004, which implies that he was born before that year.
+PREDICTION > true (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as deductive reasoning. Deductive reasoning is a logical process where specific conclusions are drawn from general principles or premises. In this case, the evidence provided (Freddie Highmore starring in Finding Neverland in 2004) is used to deduce that he was born before that year.
+
+Q: As an expert journalist, classify the following claim as true or false using only the provided evidence. CLAIM: Adidas is a European company. EVIDENCE: It is the largest sportswear manufacturer in Europe. A: 
+INPUT PROMPT > simple true
+As an expert journalist, I would classify the claim as true based on the provided evidence. The fact that Adidas is the largest sportswear manufacturer in Europe suggests that it is indeed a European company.
+PREDICTION > true (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as inductive reasoning. Inductive reasoning involves drawing a general conclusion based on specific evidence or observations. In this case, the claim that Adidas is a European company is inferred from the specific evidence that it is the largest sportswear manufacturer in Europe.
+
+Q: As an expert journalist, classify the following claim as true or false using only the provided evidence. CLAIM: Adidas sells sport shoes. EVIDENCE: Adidas is a German athletic apparel and footwear corporation. A: 
+INPUT PROMPT > complex true
+As an expert journalist, I would classify the claim as true based on the provided evidence. The evidence states that Adidas is an athletic apparel and footwear corporation, which implies that they sell sport shoes.
+PREDICTION > true (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as deductive reasoning. Deductive reasoning is a logical process in which a conclusion is derived from a set of premises or evidence. In this case, the conclusion (the claim being true) is derived from the premise (Adidas is an athletic apparel and footwear corporation).
+
+Q: As an expert journalist, classify the following claim as true or false using only the provided evidence. CLAIM: Adidas had a revenue of over 20 billion euros in 2018. EVIDENCE: Adidas's revenue for 2018 was listed at EUR 21.915 billion. A: 
+INPUT PROMPT > number true
+As an expert journalist, I would classify the claim as true based on the provided evidence. The evidence states that Adidas's revenue for 2018 was listed at EUR 21.915 billion, which is indeed over 20 billion euros.
+PREDICTION > true (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as deductive reasoning. Deductive reasoning is a logical process where a specific conclusion is drawn from general premises or evidence. In this case, the evidence provided directly supports the claim, leading to a definitive conclusion.
+
+Q: As an expert journalist, classify the following claim as true or false using only the provided evidence. CLAIM: Adidas operated during the 2010s. EVIDENCE: Adidas's revenue for 2018 was listed at EUR 21.915 billion. A: 
+INPUT PROMPT > time true
+As an AI language model, I can provide some analysis, but I am not an expert journalist. Based on the evidence provided, it can be classified as true that Adidas operated during the 2010s. The evidence states that Adidas's revenue for 2018 was EUR 21.915 billion, indicating that the company was active and generating revenue in that year. However, it does not provide direct evidence for the entire decade of the 2010s.
+PREDICTION > true (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as deductive reasoning. Deductive reasoning is a logical process in which a conclusion is derived from premises or evidence that is known or assumed to be true. In this case, the conclusion that Adidas operated during the 2010s is derived from the premise that Adidas's revenue for 2018 was EUR 21.915 billion.
+
+Q: As an expert journalist, classify the following claim as true or false using only the provided evidence. CLAIM: Loss was published online. EVIDENCE: Loss is a strip published on June 2, 2008, by Tim Buckley for his gaming-related webcomic Ctrl+Alt+Del. A: 
+INPUT PROMPT > simple true
+As an AI language model, I can provide an analysis based on the evidence provided. 
+
+Based on the evidence provided, the claim that "Loss was published online" can be classified as true. The evidence states that "Loss" is a strip published on June 2, 2008, by Tim Buckley for his gaming-related webcomic Ctrl+Alt+Del. This suggests that "Loss" was indeed published online as part of the webcomic.
+PREDICTION > true (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as deductive reasoning. Deductive reasoning is a logical process in which conclusions are drawn based on premises or evidence that guarantees the truth of the conclusion. In this case, the evidence provided directly supports the claim, leading to a certain and conclusive classification of the claim as true.
+
+Q: As an expert journalist, classify the following claim as true or false using only the provided evidence. CLAIM: Loss has a dark plot. EVIDENCE: Set during a storyline in which the main character Ethan and his fiancee Lilah are expecting their first child, the strip shows Ethan entering a hospital, where he sees Lilah weeping in a hospital bed after suffering a miscarriage. A: 
+INPUT PROMPT > complex true
+As an AI language model, I can provide an analysis of the evidence provided to help classify the claim as true or false. Based on the evidence provided, it is true that the storyline in the strip Loss involves the main character Ethan and his fiancee Lilah expecting their first child. It also mentions that Lilah suffers a miscarriage, which suggests a dark and emotional plot. Therefore, the claim that Loss has a dark plot is true based on the provided evidence.
+PREDICTION > true (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as inductive reasoning. Inductive reasoning involves drawing general conclusions based on specific evidence or observations. In this case, the evidence provided (the storyline involving Ethan and Lilah expecting a child and Lilah suffering a miscarriage) is used to make a general conclusion about the dark plot of the strip Loss.
+
+Q: As an expert journalist, classify the following claim as true or false using only the provided evidence. CLAIM: Loss featured multiple characters. EVIDENCE: The strip features the main character Ethan and his fiancee Lilah. A: 
+INPUT PROMPT > number true
+As an expert journalist, I cannot definitively classify the claim as true or false based on the provided evidence. The evidence only mentions two characters, Ethan and Lilah, but it does not provide information about any other characters that may be present in the strip. Therefore, it is possible that the strip features multiple characters, but we cannot confirm it without additional evidence.
+PREDICTION > false (wrong)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as deductive reasoning. Deductive reasoning is a logical process where specific conclusions are drawn from general principles or premises. In this case, the journalist is examining the evidence provided and drawing a conclusion based on the absence of information about other characters in the strip.
+
+Q: As an expert journalist, classify the following claim as true or false using only the provided evidence. CLAIM: Loss was published before the 2019 coronavirus pandmeic. EVIDENCE: Loss is a strip published on June 2, 2008. A: 
+INPUT PROMPT > time true
+As an AI language model, I can provide analysis based on the evidence provided. 
+
+Based on the evidence provided, it is true that Loss was published before the 2019 coronavirus pandemic. The strip was published on June 2, 2008, which is several years before the pandemic began in 2019.
+PREDICTION > true (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as deductive reasoning. Deductive reasoning is a logical process in which conclusions are drawn from given premises or evidence. In this case, the claim is based on the evidence provided, which directly supports the conclusion that Loss was published before the 2019 coronavirus pandemic.
+
+Q: As an expert journalist, classify the following claim as true or false using only the provided evidence. CLAIM: Fibromyalgia has many symptoms. EVIDENCE: Fibromyalgia is a medical condition defined by the presence of chronic widespread pain, fatigue, waking unrefreshed, cognitive symptoms, lower abdominal pain or cramps, and depression. Other symptoms include insomnia and a general hypersensitivity. A: 
+INPUT PROMPT > simple true
+As an AI language model, I can provide an analysis of the claim based on the provided evidence. 
+
+The claim states that fibromyalgia has many symptoms. The evidence provided supports this claim by listing several symptoms associated with fibromyalgia, including chronic widespread pain, fatigue, waking unrefreshed, cognitive symptoms, lower abdominal pain or cramps, depression, insomnia, and general hypersensitivity. 
+
+Based on the evidence, the claim can be classified as true.
+PREDICTION > true (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as deductive reasoning. Deductive reasoning is a logical process in which conclusions are drawn based on premises or evidence that is known or assumed to be true. In this case, the evidence provided directly supports the claim, leading to a logical deduction that the claim is true.
+
+Q: As an expert journalist, classify the following claim as true or false using only the provided evidence. CLAIM: Fibromyalgia can make it hard to get out of bed. EVIDENCE: Symptoms include fatigue, waking unrefreshed, and depression. A: 
+INPUT PROMPT > complex true
+As an AI language model, I can provide an analysis based on the evidence provided. The claim that "Fibromyalgia can make it hard to get out of bed" can be classified as true based on the provided evidence. Symptoms such as fatigue, waking unrefreshed, and depression are commonly associated with fibromyalgia, which can contribute to difficulty in getting out of bed. However, it is important to note that individual experiences with fibromyalgia may vary, and a proper diagnosis from a medical professional is necessary for accurate information.
+PREDICTION > true (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as inductive reasoning. Inductive reasoning involves drawing a general conclusion based on specific evidence or observations. In this case, the claim that fibromyalgia can make it hard to get out of bed is supported by the specific symptoms mentioned in the evidence.
+
+Q: As an expert journalist, classify the following claim as true or false using only the provided evidence. CLAIM: Fibromyalgia has at least 5 symptoms. EVIDENCE: Fibromyalgia is a medical condition defined by the presence of chronic widespread pain, fatigue, waking unrefreshed, cognitive symptoms, lower abdominal pain or cramps, and depression. Other symptoms include insomnia and a general hypersensitivity. A: 
+INPUT PROMPT > number true
+As an expert journalist, I would classify the claim as true. The evidence provided states that fibromyalgia has symptoms such as chronic widespread pain, fatigue, waking unrefreshed, cognitive symptoms, lower abdominal pain or cramps, depression, insomnia, and general hypersensitivity. This indicates that fibromyalgia has more than 5 symptoms.
+PREDICTION > true (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as deductive reasoning. Deductive reasoning is a logical process in which conclusions are drawn based on premises or evidence that is known or assumed to be true. In this case, the claim is supported by the evidence provided, which directly states the symptoms associated with fibromyalgia.
+
+Q: As an expert journalist, classify the following claim as true or false using only the provided evidence. CLAIM: What causes fibromyalgia is currently uncertain. EVIDENCE: The cause of fibromyalgia is unknown, but is believed to involve a combination of genetic and environmental factors. A: 
+INPUT PROMPT > time true
+As an expert journalist, I would classify the claim as true based on the provided evidence. The evidence states that the cause of fibromyalgia is currently unknown but is believed to involve a combination of genetic and environmental factors.
+PREDICTION > unverified (wrong)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as inductive reasoning. Inductive reasoning involves drawing a general conclusion based on specific evidence or observations. In this case, the evidence provided (the cause of fibromyalgia is unknown but believed to involve genetic and environmental factors) is used to support the general conclusion that the claim is true.
+
+Q: As an expert journalist, classify the following claim as true or false using only the provided evidence. CLAIM: Lily Allen is female. EVIDENCE: Lily Allen is an English singer-songwriter and actress. A: 
+INPUT PROMPT > simple true
+As an expert journalist, I would classify the claim as true based on the evidence provided. The evidence states that Lily Allen is an English singer-songwriter and actress, which implies that she is indeed female.
+PREDICTION > true (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as deductive reasoning. Deductive reasoning is a logical process in which a conclusion is derived from premises or evidence that is known or assumed to be true. In this case, the conclusion that Lily Allen is female is derived from the premise that she is an English singer-songwriter and actress.
+
+Q: As an expert journalist, classify the following claim as true or false using only the provided evidence. CLAIM: Lily Allen's popularity was bolstered by the internet. EVIDENCE: Her music career began in 2005 when she made some of her vocal recordings public on Myspace. A: 
+INPUT PROMPT > complex true
+As an AI language model, I can provide an analysis based on the evidence provided. Based on the evidence that Lily Allen made some of her vocal recordings public on Myspace in 2005, it can be inferred that the internet played a role in her music career. However, without further evidence or data, it is not possible to definitively classify the claim as true or false. Additional information, such as the impact of her online presence on her popularity or the comparison of her popularity before and after utilizing the internet, would be necessary to make a more accurate classification.
+PREDICTION > false (wrong)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as inductive reasoning. Inductive reasoning involves drawing general conclusions based on specific evidence or observations. In this case, the evidence provided (Lily Allen making vocal recordings public on Myspace) is used to make a general inference about the role of the internet in bolstering her popularity.
+
+Q: As an expert journalist, classify the following claim as true or false using only the provided evidence. CLAIM: Lily Allen has sold millions of copies of her songs. EVIDENCE: Her debut record, Alright, Still, was well received, selling over 2.6 million copies worldwide. A: 
+INPUT PROMPT > number true
+As an expert journalist, I would classify the claim as true based on the provided evidence. The evidence states that Lily Allen's debut record, Alright, Still, sold over 2.6 million copies worldwide, indicating that she has indeed sold millions of copies of her songs.
+PREDICTION > true (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as deductive reasoning. Deductive reasoning is a logical process in which a conclusion is derived from a set of premises or evidence. In this case, the conclusion that Lily Allen has sold millions of copies of her songs is derived from the premise that her debut record, Alright, Still, sold over 2.6 million copies worldwide.
+
+Q: As an expert journalist, classify the following claim as true or false using only the provided evidence. CLAIM: Lily Allen was born in the first half of the year. EVIDENCE: Lily Allen (born 2 May 1985) is an English singer-songwriter and actress. A: 
+INPUT PROMPT > time true
+As an expert journalist, I would classify the claim as true based on the provided evidence. The evidence states that Lily Allen was born on 2 May 1985, which falls within the first half of the year.
+PREDICTION > true (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as deductive reasoning. Deductive reasoning is a logical process in which a conclusion is derived from a set of premises or evidence. In this case, the conclusion (the claim being true) is derived from the premise (Lily Allen's birthdate falls within the first half of the year).
+
+Q: As an expert journalist, classify the following claim as true or false using only the provided evidence. CLAIM: Sally Field won many awards. EVIDENCE: She has received many accolades throughout her career. A: 
+INPUT PROMPT > simple true
+As an expert journalist, I cannot classify the claim as true or false based solely on the provided evidence. While it is mentioned that Sally Field has received many accolades throughout her career, the specific number or types of awards she has won are not mentioned. Therefore, further information is needed to determine the accuracy of the claim.
+PREDICTION > false (wrong)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as inductive reasoning. Inductive reasoning involves drawing a general conclusion based on specific evidence or observations. In this case, the conclusion that cannot be determined whether the claim is true or false is based on the specific evidence provided.
+
+Q: As an expert journalist, classify the following claim as true or false using only the provided evidence. CLAIM: Sally Field has acted in more than just films. EVIDENCE: She is known for her extensive work on screen and stage. A: 
+INPUT PROMPT > complex true
+A: True. The evidence provided states that Sally Field is known for her extensive work on screen and stage, indicating that she has acted in more than just films.
+PREDICTION > true (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as deductive reasoning. Deductive reasoning is a logical process where a conclusion is derived from premises or evidence that is known or assumed to be true. In this case, the claim is derived from the evidence provided, which directly supports the conclusion.
+
+Q: As an expert journalist, classify the following claim as true or false using only the provided evidence. CLAIM: Sally Field won at least 9 awards. EVIDENCE: She has received two Academy Awards, two Golden Globe Awards, and three Primetime Emmy Awards, in addition to nominations for a Tony Award and two British Academy Film Awards. She was presented with a star on the Hollywood Walk of Fame in 2014, the National Medal of Arts in 2014, the Kennedy Center Honor in 2019, and the Screen Actors Guild Life Achievement Award in 2023. A: 
+INPUT PROMPT > number true
+As an expert journalist, I would classify the claim as false. The evidence provided states that Sally Field has received a total of 7 awards (2 Academy Awards, 2 Golden Globe Awards, and 3 Primetime Emmy Awards). There is no mention of her winning any additional awards, so the claim that she won at least 9 awards is not supported by the evidence.
+PREDICTION > false (wrong)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as deductive reasoning. Deductive reasoning is a logical process in which conclusions are drawn based on premises or evidence that is known or assumed to be true. In this case, the evidence provided is used to draw a conclusion about the truth or falsity of the claim.
+
+Q: As an expert journalist, classify the following claim as true or false using only the provided evidence. CLAIM: Sally Field won an award in 2014. EVIDENCE: She was presented with a star on the Hollywood Walk of Fame in 2014. A: 
+INPUT PROMPT > time true
+As an expert journalist, I would classify the claim as true based on the provided evidence. Sally Field being presented with a star on the Hollywood Walk of Fame in 2014 can be considered an award or recognition in the entertainment industry.
+PREDICTION > true (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as deductive reasoning. Deductive reasoning is a logical process in which a conclusion is derived from a set of premises or evidence. In this case, the conclusion that Sally Field won an award in 2014 is derived from the premise that she was presented with a star on the Hollywood Walk of Fame in 2014, which is considered an award or recognition.
+
+Q: As an expert journalist, classify the following claim as true or false using only the provided evidence. CLAIM: Cavani is a goalkeeper. EVIDENCE: Cavani Gómez is an Uruguayan professional footballer who plays as a striker. A: 
+INPUT PROMPT > simple false
+False.
+PREDICTION > false (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning is deductive reasoning.
+
+Q: As an expert journalist, classify the following claim as true or false using only the provided evidence. CLAIM: Cavani injured an opposing player with a bow. EVIDENCE: Cavani is known for his clinical finishing as well as his celebration, in which he makes a gesture resembling a bow and arrow.  A: 
+INPUT PROMPT > complex false
+As an expert journalist, I cannot classify the claim as true or false based solely on the provided evidence. The evidence only states that Cavani is known for his clinical finishing and celebration, which involves a gesture resembling a bow and arrow. It does not provide any information or evidence about Cavani injuring an opposing player with a bow.
+PREDICTION > false (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as abductive reasoning. Abductive reasoning involves making an inference or forming a hypothesis based on the available evidence, even if it is not conclusive. In this case, the journalist is using abductive reasoning to conclude that the claim cannot be classified as true or false based on the provided evidence.
+
+Q: As an expert journalist, classify the following claim as true or false using only the provided evidence. CLAIM: Cavani is younger than 30. EVIDENCE: Cavani was born on 14 February 1987. A: 
+INPUT PROMPT > number false
+As an expert journalist, I can classify the claim as false based on the provided evidence. Cavani was born on 14 February 1987, which means he is older than 30.
+PREDICTION > false (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as deductive reasoning. Deductive reasoning is a logical process where conclusions are drawn based on premises or evidence that is known to be true. In this case, the evidence provided (Cavani's birthdate) is used to logically conclude that the claim is false.
+
+Q: As an expert journalist, classify the following claim as true or false using only the provided evidence. CLAIM: Cavani was born on an odd numbered day. EVIDENCE: Cavani was born on 14 February 1987. A: 
+INPUT PROMPT > time false
+As an expert journalist, I would classify the claim as false based on the provided evidence. The evidence states that Cavani was born on 14 February 1987, which is an even-numbered day.
+PREDICTION > false (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as deductive reasoning. Deductive reasoning is a logical process in which conclusions are drawn based on premises or evidence that is known or assumed to be true. In this case, the evidence provided (Cavani's birthdate) directly contradicts the claim, leading to the conclusion that the claim is false.
+
+Q: As an expert journalist, classify the following claim as true or false using only the provided evidence. CLAIM: Tom Felton is a Spanish actor. EVIDENCE: Tom Felton is an English actor. A: 
+INPUT PROMPT > simple false
+False.
+PREDICTION > false (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning is deductive reasoning.
+
+Q: As an expert journalist, classify the following claim as true or false using only the provided evidence. CLAIM: Tom Felton's only role in the Harry Potter movies was as a centaur. EVIDENCE: Tom Felton is an English actor best known for playing Draco Malfoy in the film adaptations of Harry Potter. A: 
+INPUT PROMPT > complex false
+False.
+PREDICTION > false (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning is deductive reasoning.
+
+Q: As an expert journalist, classify the following claim as true or false using only the provided evidence. CLAIM: Tom Felton was born after the last Harry Potter movie released. EVIDENCE: Tom Felton is an English actor best known for playing Draco Malfoy in the film adaptations of Harry Potter. A: 
+INPUT PROMPT > time false
+As an AI language model, I can provide an analysis based on the evidence provided. 
+
+Based on the evidence provided, it is not possible to classify the claim as true or false. The evidence states that Tom Felton is an English actor best known for playing Draco Malfoy in the film adaptations of Harry Potter. However, it does not provide any information about his birth date or the release date of the last Harry Potter movie. Therefore, without additional evidence, it is not possible to determine the accuracy of the claim.
+PREDICTION > false (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as deductive reasoning. Deductive reasoning is a logical process in which conclusions are drawn from given premises or evidence. In this case, the evidence provided does not directly support the claim, as it does not provide any information about Tom Felton's birth date or the release date of the last Harry Potter movie. Therefore, the conclusion that the claim cannot be classified as true or false is based on deductive reasoning.
+
+Q: As an expert journalist, classify the following claim as true or false using only the provided evidence. CLAIM: Tom Felton was born in the 6th month of the year. EVIDENCE: Tom Felton was born on 22 September 1987. A: 
+INPUT PROMPT > time false
+False.
+PREDICTION > false (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning is deductive reasoning.
+
+Q: As an expert journalist, classify the following claim as true or false using only the provided evidence. CLAIM: The Crown is about Queen Victoria. EVIDENCE: The Crown is a historical drama television series about the reign of Queen Elizabeth II. A: 
+INPUT PROMPT > simple false
+False.
+PREDICTION > false (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning is deductive reasoning.
+
+Q: As an expert journalist, classify the following claim as true or false using only the provided evidence. CLAIM: The Crown does not showcase much of royal life. EVIDENCE: The Crown is a historical drama television series about the reign of Queen Elizabeth II. A: 
+INPUT PROMPT > complex false
+As an AI language model, I can provide an analysis based on the evidence provided. 
+
+Based on the evidence provided, it is not possible to classify the claim as true or false. The evidence states that "The Crown" is a historical drama television series about the reign of Queen Elizabeth II. However, it does not provide any specific information about whether the show showcases much of royal life or not. To determine the accuracy of the claim, additional evidence or personal knowledge about the show would be required.
+PREDICTION > false (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as deductive reasoning. Deductive reasoning is a logical process in which conclusions are drawn based on premises or evidence that is known or assumed to be true. In this case, the evidence provided is analyzed to determine if it supports the claim, and since the evidence does not directly support or refute the claim, a definitive conclusion cannot be reached.
+
+Q: As an expert journalist, classify the following claim as true or false using only the provided evidence. CLAIM: The Crown was cancelled after two seasons. EVIDENCE: The sixth season, which will close the series, will cover the Queen's reign into the 21st century. A: 
+INPUT PROMPT > number false
+False.
+PREDICTION > false (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning appears to be deductive reasoning.
+
+Q: As an expert journalist, classify the following claim as true or false using only the provided evidence. CLAIM: The Crown television series only covers past centuries. EVIDENCE: The sixth season, which will close the series, will cover the Queen's reign into the 21st century. A: 
+INPUT PROMPT > time false
+False.
+PREDICTION > false (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning is deductive reasoning.
+
+Q: As an expert journalist, classify the following claim as true or false using only the provided evidence. CLAIM: The characters in The White Lotus have little difficulty in getting along. EVIDENCE: The White Lotus follows the guests and employees of the fictional White Lotus resort chain, whose interactions are affected by their various psychosocial dysfunctions. A: 
+INPUT PROMPT > simple false
+As an AI language model, I can provide an analysis based on the evidence provided. 
+
+Based on the evidence, it is not explicitly stated whether the characters in The White Lotus have little difficulty in getting along. The evidence mentions that the interactions of the guests and employees are affected by their various psychosocial dysfunctions. This suggests that there may be challenges or conflicts in their relationships, but it does not provide enough information to classify the claim as true or false. Further evidence or context would be needed to make a definitive classification.
+PREDICTION > false (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as deductive reasoning. Deductive reasoning is a logical process in which specific conclusions are drawn from general principles or premises. In this case, the evidence provided is analyzed to determine whether the claim is true or false based on the information given.
+
+Q: As an expert journalist, classify the following claim as true or false using only the provided evidence. CLAIM: The White Lotus is primarily set on a cruise ship. EVIDENCE: The White Lotus follows the guests and employees of the fictional White Lotus resort chain. A: 
+INPUT PROMPT > complex false
+As an AI language model, I can provide analysis based on the evidence provided. 
+
+Based on the evidence provided, the claim that "The White Lotus is primarily set on a cruise ship" cannot be classified as true or false. The evidence states that the show follows the guests and employees of the fictional White Lotus resort chain, but it does not specifically mention a cruise ship as the primary setting. Therefore, without further evidence, it is not possible to determine the accuracy of the claim.
+PREDICTION > false (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as deductive reasoning. Deductive reasoning is a logical process where specific conclusions are drawn from general principles or premises. In this case, the evidence provided is analyzed to determine if it supports the claim, and since the evidence does not specifically mention a cruise ship as the primary setting, it is concluded that the claim cannot be classified as true or false.
+
+Q: As an expert journalist, classify the following claim as true or false using only the provided evidence. CLAIM: The White Lotus has more than two dozen episodes in its first two seasons. EVIDENCE: The first two seasons, totalling 13 episodes, are set in Hawaii and Sicily respectively. A: 
+INPUT PROMPT > number false
+False.
+PREDICTION > false (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning appears to be deductive reasoning.
+
+Q: As an expert journalist, classify the following claim as true or false using only the provided evidence. CLAIM: The White Lotus was released before 2020. EVIDENCE: The White Lotus premiered on July 11, 2021, to critical acclaim and high ratings. A: 
+INPUT PROMPT > time false
+False.
+PREDICTION > false (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning is deductive reasoning.
+
+Q: As an expert journalist, classify the following claim as true or false using only the provided evidence. CLAIM: A monthly subscription is required to use Tor. EVIDENCE: Tor, short for "The Onion Router," is free and open-source software. A: 
+INPUT PROMPT > simple false
+False.
+PREDICTION > false (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning is deductive reasoning.
+
+Q: As an expert journalist, classify the following claim as true or false using only the provided evidence. CLAIM: Tor is named after a fruit. EVIDENCE: Tor, short for "The Onion Router," is free and open-source software  A: 
+INPUT PROMPT > complex false
+As an expert journalist, I cannot classify the claim as true or false based solely on the provided evidence. The evidence only states that Tor is short for "The Onion Router" and is free and open-source software. It does not provide any information about whether Tor is named after a fruit or not.
+PREDICTION > false (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as deductive reasoning. Deductive reasoning is a logical process in which conclusions are drawn based on premises or evidence that is known or assumed to be true. In this case, the conclusion is that the claim cannot be classified as true or false based on the provided evidence, which is derived from the logical analysis of the evidence itself.
+
+Q: As an expert journalist, classify the following claim as true or false using only the provided evidence. CLAIM: Over 9000 relays are used by Tor. EVIDENCE: Tor directs Internet traffic via a free, worldwide, volunteer overlay network that consists of more than seven thousand relays. A: 
+INPUT PROMPT > number false
+False. The evidence provided states that Tor consists of more than seven thousand relays, not over 9000.
+PREDICTION > false (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as deductive reasoning. The evidence provided directly contradicts the claim, leading to the conclusion that the claim is false.
+
+Q: As an expert journalist, classify the following claim as true or false using only the provided evidence. CLAIM: Tor software existed during the 20th century. EVIDENCE: Tor was released shortly after the turn of the millennium. A: 
+INPUT PROMPT > time false
+As an expert journalist, I would classify the claim as false based on the provided evidence. The evidence states that Tor was released shortly after the turn of the millennium, which refers to the year 2000. Therefore, Tor software did not exist during the 20th century.
+PREDICTION > false (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as deductive reasoning. Deductive reasoning is a logical process where conclusions are drawn based on premises or evidence that is known to be true. In this case, the evidence provided clearly states that Tor was released shortly after the turn of the millennium, which logically leads to the conclusion that Tor software did not exist during the 20th century.
+
+Q: As an expert journalist, classify the following claim as true or false using only the provided evidence. CLAIM: Son Ye-jin has never caught a cold. EVIDENCE: Son Ye-jin (born Son Eon-jin on January 11, 1982) is a South Korean actress. A: 
+INPUT PROMPT > simple unverified
+OUT OF SCOPE
+
+Q: As an expert journalist, classify the following claim as true or false using only the provided evidence. CLAIM: Son Ye-jin is loved by every South Korean citizen. EVIDENCE: She rose to fame in 2003 for The Classic and Summer Scent. A: 
+INPUT PROMPT > complex unverified
+OUT OF SCOPE
+
+Q: As an expert journalist, classify the following claim as true or false using only the provided evidence. CLAIM: Son Ye-jin has acted in hundreds of films. EVIDENCE: She since has won various acting recognitions and acted in high-profile films including My Wife Got Married (2008), The Pirates (2014), the 2016 films The Truth Beneath and The Last Princess, and The Negotiation (2018). She has also acted in the successful television dramas Alone in Love (2006), Personal Taste (2010), Something in the Rain (2018), Crash Landing on You (2019–2020), and Thirty-Nine (2022). A: 
+INPUT PROMPT > number unverified
+OUT OF SCOPE
+
+Q: As an expert journalist, classify the following claim as true or false using only the provided evidence. CLAIM: Son Ye-jin, a South Korean actress, is now retired. EVIDENCE: She since has won various acting recognitions and acted in high-profile films including My Wife Got Married (2008), The Pirates (2014), the 2016 films The Truth Beneath and The Last Princess, and The Negotiation (2018). She has also acted in the successful television dramas Alone in Love (2006), Personal Taste (2010), Something in the Rain (2018), Crash Landing on You (2019–2020), and Thirty-Nine (2022). A: 
+INPUT PROMPT > time unverified
+OUT OF SCOPE
+
+Q: As an expert journalist, classify the following claim as true or false using only the provided evidence. CLAIM: Begium used to be a member of be. EVIDENCE: BRICS is a grouping of the world economies of Brazil, Russia, India, China and South Africa formed by the 2010 addition of South Africa to the predecessor BRIC. A: 
+INPUT PROMPT > simple unverified
+OUT OF SCOPE
+
+Q: As an expert journalist, classify the following claim as true or false using only the provided evidence. CLAIM: BRICS countries are popular tourist destinations. EVIDENCE: BRICS is a grouping of the world economies of Brazil, Russia, India, China and South Africa formed by the 2010 addition of South Africa to the predecessor BRIC. A: 
+INPUT PROMPT > complex unverified
+OUT OF SCOPE
+
+Q: As an expert journalist, classify the following claim as true or false using only the provided evidence. CLAIM: There are many BRICS countries. EVIDENCE: The original acronym "BRIC" (or "the BRICs") was coined in 2001 by Goldman Sachs economist Jim O'Neill to describe fast-growing economies that would collectively dominate the global economy by 2050. A: 
+INPUT PROMPT > number unverified
+OUT OF SCOPE
+
+Q: As an expert journalist, classify the following claim as true or false using only the provided evidence. CLAIM: BRICS is now a defunct term. EVIDENCE: The original acronym "BRIC" (or "the BRICs") was coined in 2001. A: 
+INPUT PROMPT > time unverified
+OUT OF SCOPE
+
+Q: As an expert journalist, classify the following claim as true or false using only the provided evidence. CLAIM: Aileen was a good singer. EVIDENCE: Aileen Carol Wuornos was an American serial killer. A: 
+INPUT PROMPT > simple unverified
+OUT OF SCOPE
+
+Q: As an expert journalist, classify the following claim as true or false using only the provided evidence. CLAIM: Aileen was at one point married. EVIDENCE: Wuornos claimed that her clients had either raped or attempted to rape her, and that the homicides of the men were committed in self-defense. A: 
+INPUT PROMPT > complex unverified
+OUT OF SCOPE
+
+Q: As an expert journalist, classify the following claim as true or false using only the provided evidence. CLAIM: Aileen had 2 children, Alice and Dean. EVIDENCE: Wuornos claimed that her clients had either raped or attempted to rape her, and that the homicides of the men were committed in self-defense.  A: 
+INPUT PROMPT > number unverified
+OUT OF SCOPE
+
+Q: As an expert journalist, classify the following claim as true or false using only the provided evidence. CLAIM: Aileen spent over half her life in prison. EVIDENCE: She was executed on October 9, 2002 by lethal injection after spending more than 10 years on Florida's death row. A: 
+INPUT PROMPT > time unverified
+OUT OF SCOPE
+
+Q: As an expert journalist, classify the following claim as true or false using only the provided evidence. CLAIM: Argentina is a wealthy country. EVIDENCE: Argentina, officially the Argentine Republic, is a country in the southern half of South America. Argentina covers an area of 2,780,400 km2 (1,073,500 sq mi). A: 
+INPUT PROMPT > simple unverified
+OUT OF SCOPE
+
+Q: As an expert journalist, classify the following claim as true or false using only the provided evidence. CLAIM: Most Argentinians prefer pizza over pasta. EVIDENCE: Argentina claims sovereignty over the Falkland Islands, South Georgia and the South Sandwich Islands, and a part of Antarctica. A: 
+INPUT PROMPT > complex unverified
+OUT OF SCOPE
+
+Q: As an expert journalist, classify the following claim as true or false using only the provided evidence. CLAIM: Over 50 million people live in Argentina. EVIDENCE: Argentina, officially the Argentine Republic, is a country in the southern half of South America. Argentina covers an area of 2,780,400 km2 (1,073,500 sq mi). A: 
+INPUT PROMPT > number unverified
+OUT OF SCOPE
+
+Q: As an expert journalist, classify the following claim as true or false using only the provided evidence. CLAIM: Argentina recently won the world cup. EVIDENCE: Argentina claims sovereignty over the Falkland Islands, South Georgia and the South Sandwich Islands, and a part of Antarctica. A: 
+INPUT PROMPT > time unverified
+OUT OF SCOPE
+
+Q: As an expert journalist, classify the following claim as true or false using only the provided evidence. CLAIM: Artemis enjoys getting drunk. EVIDENCE: In ancient Greek religion and mythology, Artemis is the goddess of the hunt, the wilderness, wild animals, nature, vegetation, childbirth, care of children, and chastity. A: 
+INPUT PROMPT > simple unverified
+OUT OF SCOPE
+
+Q: As an expert journalist, classify the following claim as true or false using only the provided evidence. CLAIM: Artemis lives on Mount Olympus. EVIDENCE: She often roamed the forests of Greece, attended by her large entourage, mostly made up of nymphs, some mortals, and hunters. A: 
+INPUT PROMPT > complex unverified
+OUT OF SCOPE
+
+Q: As an expert journalist, classify the following claim as true or false using only the provided evidence. CLAIM: Artemis owns a large. EVIDENCE: She often roamed the forests of Greece, attended by her large entourage, mostly made up of nymphs, some mortals, and hunters. A: 
+INPUT PROMPT > number unverified
+OUT OF SCOPE
+
+Q: As an expert journalist, classify the following claim as true or false using only the provided evidence. CLAIM: Artemis was born before the start of the Roman Empire. EVIDENCE: The goddess Diana is her Roman equivalent. A: 
+INPUT PROMPT > time unverified
+OUT OF SCOPE
+
+PREDICTED
+F T U
+[[20  0  0]
+ [ 6 33  1]
+ [ 0  0  0]]
+
+CORRECT
+{'simple': 14, 'complex': 13, 'number': 12, 'time': 14}
+WRONG
+{'time': 2, 'complex': 2, 'number': 2, 'simple': 1}
