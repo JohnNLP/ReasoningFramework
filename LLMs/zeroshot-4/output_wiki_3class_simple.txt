@@ -1,0 +1,572 @@
+﻿
+Q: As an expert journalist, classify the following claim as true, false, or unknown using only the provided evidence. CLAIM: To Kill a Mockingbird is a popular book. EVIDENCE: It is widely read in high schools and middle schools. A: 
+INPUT PROMPT > simple true
+True
+PREDICTION > true (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+Inductive
+
+Q: As an expert journalist, classify the following claim as true, false, or unknown using only the provided evidence. CLAIM: To Kill a Mockingbird is a highly acclaimed book. EVIDENCE: A year after its release, it won the Pulitzer Prize. A: 
+INPUT PROMPT > complex true
+True
+PREDICTION > true (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+Deductive
+
+Q: As an expert journalist, classify the following claim as true, false, or unknown using only the provided evidence. CLAIM: To Kill a Mockingbird has over 200 pages. EVIDENCE: The book has 281 pages. A: 
+INPUT PROMPT > number true
+True
+PREDICTION > true (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+Deductive
+
+Q: As an expert journalist, classify the following claim as true, false, or unknown using only the provided evidence. CLAIM: To Kill a Mockingbird was published in the 1960s. EVIDENCE: The book was published on July 11, 1960. A: 
+INPUT PROMPT > time true
+True
+PREDICTION > true (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+Deductive
+
+Q: As an expert journalist, classify the following claim as true, false, or unknown using only the provided evidence. CLAIM: Tom Jones is from Wales. EVIDENCE: Tom Jones is a Welsh singer.  A: 
+INPUT PROMPT > simple true
+True
+PREDICTION > true (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+Deductive
+
+Q: As an expert journalist, classify the following claim as true, false, or unknown using only the provided evidence. CLAIM: Tom Jones is good at singing low notes. EVIDENCE: His voice has been described by AllMusic as a "full-throated, robust baritone". A: 
+INPUT PROMPT > complex true
+True
+PREDICTION > true (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+Abductive
+
+Q: As an expert journalist, classify the following claim as true, false, or unknown using only the provided evidence. CLAIM: Tom Jones is over 80 years old. EVIDENCE: Tom Jones was born on 7 June 1940. A: 
+INPUT PROMPT > number true
+True
+PREDICTION > true (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+Deductive
+
+Q: As an expert journalist, classify the following claim as true, false, or unknown using only the provided evidence. CLAIM: Tom Jones made appearences in the 2010s. EVIDENCE: He has since toured regularly, with appearances in Las Vegas from 1967 to 2011.  A: 
+INPUT PROMPT > time true
+True
+PREDICTION > true (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+Deductive
+
+Q: As an expert journalist, classify the following claim as true, false, or unknown using only the provided evidence. CLAIM: The Exorcist is based on a book. EVIDENCE: The Exorcist is based on a 1971 novel of the same name.  A: 
+INPUT PROMPT > simple true
+True
+PREDICTION > true (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+Deductive
+
+Q: As an expert journalist, classify the following claim as true, false, or unknown using only the provided evidence. CLAIM: The Exorcist has a supernatural plot. EVIDENCE: The story follows the demonic possession of a young girl. A: 
+INPUT PROMPT > complex true
+True
+PREDICTION > true (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+Deductive
+
+Q: As an expert journalist, classify the following claim as true, false, or unknown using only the provided evidence. CLAIM: The Exorcist features multiple priests. EVIDENCE: The film's story involves two Catholic priests. A: 
+INPUT PROMPT > number true
+True
+PREDICTION > true (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+Deductive
+
+Q: As an expert journalist, classify the following claim as true, false, or unknown using only the provided evidence. CLAIM: The Exorcist was released in 1973. EVIDENCE: The Exorcist is a 1973 American supernatural horror film. A: 
+INPUT PROMPT > time true
+True
+PREDICTION > true (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+Deductive
+
+Q: As an expert journalist, classify the following claim as true, false, or unknown using only the provided evidence. CLAIM: Anne Frank had a diary. EVIDENCE: Anne Frank was a celebrated diarist. A: 
+INPUT PROMPT > simple true
+True
+PREDICTION > true (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+Deductive
+
+Q: As an expert journalist, classify the following claim as true, false, or unknown using only the provided evidence. CLAIM: Anne Frank hid from the Nazis. EVIDENCE: Anne Frank, a jewish girl, was in hiding from 1942 to 1944, during the German occupation of the Netherlands in World War II.  A: 
+INPUT PROMPT > complex true
+True
+PREDICTION > true (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+Deductive
+
+Q: As an expert journalist, classify the following claim as true, false, or unknown using only the provided evidence. CLAIM: Anne Frank hid for more than 2 years. EVIDENCE: She was in hiding from 1942 to 1944. A: 
+INPUT PROMPT > number true
+True
+PREDICTION > true (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+Deductive
+
+Q: As an expert journalist, classify the following claim as true, false, or unknown using only the provided evidence. CLAIM: Anne Frank did not survive 1945. EVIDENCE: Anne Frank (12 June 1929 – c.February or March 1945) was a German-born Jewish girl. A: 
+INPUT PROMPT > time true
+True
+PREDICTION > true (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+Deductive
+
+Q: As an expert journalist, classify the following claim as true, false, or unknown using only the provided evidence. CLAIM: Freddie Highmore started acting at a young age. EVIDENCE: Freddie Highmore is known for his starring roles beginning as a child. A: 
+INPUT PROMPT > simple true
+True
+PREDICTION > true (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+Deductive
+
+Q: As an expert journalist, classify the following claim as true, false, or unknown using only the provided evidence. CLAIM: Freddie Highmore was a good actor. EVIDENCE: He is known for his starring roles beginning as a child, in the films Finding Neverland (2004), Charlie and the Chocolate Factory (2005), August Rush (2007), and The Spiderwick Chronicles (2008). A: 
+INPUT PROMPT > complex true
+Unknown
+PREDICTION > unverified (wrong)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+Inductive
+
+Q: As an expert journalist, classify the following claim as true, false, or unknown using only the provided evidence. CLAIM: Freddie Highmore was in at least 3 films. EVIDENCE: He is known for his starring roles beginning as a child, in the films Finding Neverland (2004), Charlie and the Chocolate Factory (2005), August Rush (2007), and The Spiderwick Chronicles (2008). A: 
+INPUT PROMPT > number true
+True
+PREDICTION > true (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+Deductive
+
+Q: As an expert journalist, classify the following claim as true, false, or unknown using only the provided evidence. CLAIM: Freddie Highmore was born before he starred in the film Finding Neverland. EVIDENCE: He is known for his starring roles beginning as a child, in the films Finding Neverland (2004), Charlie and the Chocolate Factory (2005), August Rush (2007), and The Spiderwick Chronicles (2008). A: 
+INPUT PROMPT > time true
+True
+PREDICTION > true (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+Deductive
+
+Q: As an expert journalist, classify the following claim as true, false, or unknown using only the provided evidence. CLAIM: Adidas is a European company. EVIDENCE: It is the largest sportswear manufacturer in Europe. A: 
+INPUT PROMPT > simple true
+True
+PREDICTION > true (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+Abductive
+
+Q: As an expert journalist, classify the following claim as true, false, or unknown using only the provided evidence. CLAIM: Adidas sells sport shoes. EVIDENCE: Adidas is a German athletic apparel and footwear corporation. A: 
+INPUT PROMPT > complex true
+True
+PREDICTION > true (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+Deductive
+
+Q: As an expert journalist, classify the following claim as true, false, or unknown using only the provided evidence. CLAIM: Adidas had a revenue of over 20 billion euros in 2018. EVIDENCE: Adidas's revenue for 2018 was listed at EUR 21.915 billion. A: 
+INPUT PROMPT > number true
+True
+PREDICTION > true (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+Deductive
+
+Q: As an expert journalist, classify the following claim as true, false, or unknown using only the provided evidence. CLAIM: Adidas operated during the 2010s. EVIDENCE: Adidas's revenue for 2018 was listed at EUR 21.915 billion. A: 
+INPUT PROMPT > time true
+True
+PREDICTION > true (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+Deductive
+
+Q: As an expert journalist, classify the following claim as true, false, or unknown using only the provided evidence. CLAIM: Loss was published online. EVIDENCE: Loss is a strip published on June 2, 2008, by Tim Buckley for his gaming-related webcomic Ctrl+Alt+Del. A: 
+INPUT PROMPT > simple true
+True
+PREDICTION > true (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+Deductive
+
+Q: As an expert journalist, classify the following claim as true, false, or unknown using only the provided evidence. CLAIM: Loss has a dark plot. EVIDENCE: Set during a storyline in which the main character Ethan and his fiancee Lilah are expecting their first child, the strip shows Ethan entering a hospital, where he sees Lilah weeping in a hospital bed after suffering a miscarriage. A: 
+INPUT PROMPT > complex true
+True
+PREDICTION > true (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+Deductive
+
+Q: As an expert journalist, classify the following claim as true, false, or unknown using only the provided evidence. CLAIM: Loss featured multiple characters. EVIDENCE: The strip features the main character Ethan and his fiancee Lilah. A: 
+INPUT PROMPT > number true
+True
+PREDICTION > true (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+Deductive
+
+Q: As an expert journalist, classify the following claim as true, false, or unknown using only the provided evidence. CLAIM: Loss was published before the 2019 coronavirus pandmeic. EVIDENCE: Loss is a strip published on June 2, 2008. A: 
+INPUT PROMPT > time true
+True
+PREDICTION > true (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+Deductive
+
+Q: As an expert journalist, classify the following claim as true, false, or unknown using only the provided evidence. CLAIM: Fibromyalgia has many symptoms. EVIDENCE: Fibromyalgia is a medical condition defined by the presence of chronic widespread pain, fatigue, waking unrefreshed, cognitive symptoms, lower abdominal pain or cramps, and depression. Other symptoms include insomnia and a general hypersensitivity. A: 
+INPUT PROMPT > simple true
+True
+PREDICTION > true (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+Deductive
+
+Q: As an expert journalist, classify the following claim as true, false, or unknown using only the provided evidence. CLAIM: Fibromyalgia can make it hard to get out of bed. EVIDENCE: Symptoms include fatigue, waking unrefreshed, and depression. A: 
+INPUT PROMPT > complex true
+True
+PREDICTION > true (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+Inductive
+
+Q: As an expert journalist, classify the following claim as true, false, or unknown using only the provided evidence. CLAIM: Fibromyalgia has at least 5 symptoms. EVIDENCE: Fibromyalgia is a medical condition defined by the presence of chronic widespread pain, fatigue, waking unrefreshed, cognitive symptoms, lower abdominal pain or cramps, and depression. Other symptoms include insomnia and a general hypersensitivity. A: 
+INPUT PROMPT > number true
+True
+PREDICTION > true (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+Deductive
+
+Q: As an expert journalist, classify the following claim as true, false, or unknown using only the provided evidence. CLAIM: What causes fibromyalgia is currently uncertain. EVIDENCE: The cause of fibromyalgia is unknown, but is believed to involve a combination of genetic and environmental factors. A: 
+INPUT PROMPT > time true
+True
+PREDICTION > true (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+Deductive
+
+Q: As an expert journalist, classify the following claim as true, false, or unknown using only the provided evidence. CLAIM: Lily Allen is female. EVIDENCE: Lily Allen is an English singer-songwriter and actress. A: 
+INPUT PROMPT > simple true
+True
+PREDICTION > true (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The reasoning is deductive.
+
+Q: As an expert journalist, classify the following claim as true, false, or unknown using only the provided evidence. CLAIM: Lily Allen's popularity was bolstered by the internet. EVIDENCE: Her music career began in 2005 when she made some of her vocal recordings public on Myspace. A: 
+INPUT PROMPT > complex true
+True
+PREDICTION > true (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+Inductive
+
+Q: As an expert journalist, classify the following claim as true, false, or unknown using only the provided evidence. CLAIM: Lily Allen has sold millions of copies of her songs. EVIDENCE: Her debut record, Alright, Still, was well received, selling over 2.6 million copies worldwide. A: 
+INPUT PROMPT > number true
+True
+PREDICTION > true (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+Deductive
+
+Q: As an expert journalist, classify the following claim as true, false, or unknown using only the provided evidence. CLAIM: Lily Allen was born in the first half of the year. EVIDENCE: Lily Allen (born 2 May 1985) is an English singer-songwriter and actress. A: 
+INPUT PROMPT > time true
+True
+PREDICTION > true (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+Deductive
+
+Q: As an expert journalist, classify the following claim as true, false, or unknown using only the provided evidence. CLAIM: Sally Field won many awards. EVIDENCE: She has received many accolades throughout her career. A: 
+INPUT PROMPT > simple true
+True
+PREDICTION > true (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+Deductive
+
+Q: As an expert journalist, classify the following claim as true, false, or unknown using only the provided evidence. CLAIM: Sally Field has acted in more than just films. EVIDENCE: She is known for her extensive work on screen and stage. A: 
+INPUT PROMPT > complex true
+True
+PREDICTION > true (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+Deductive
+
+Q: As an expert journalist, classify the following claim as true, false, or unknown using only the provided evidence. CLAIM: Sally Field won at least 9 awards. EVIDENCE: She has received two Academy Awards, two Golden Globe Awards, and three Primetime Emmy Awards, in addition to nominations for a Tony Award and two British Academy Film Awards. She was presented with a star on the Hollywood Walk of Fame in 2014, the National Medal of Arts in 2014, the Kennedy Center Honor in 2019, and the Screen Actors Guild Life Achievement Award in 2023. A: 
+INPUT PROMPT > number true
+True
+PREDICTION > true (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+Deductive
+
+Q: As an expert journalist, classify the following claim as true, false, or unknown using only the provided evidence. CLAIM: Sally Field won an award in 2014. EVIDENCE: She was presented with a star on the Hollywood Walk of Fame in 2014. A: 
+INPUT PROMPT > time true
+True
+PREDICTION > true (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+Deductive
+
+Q: As an expert journalist, classify the following claim as true, false, or unknown using only the provided evidence. CLAIM: Cavani is a goalkeeper. EVIDENCE: Cavani Gómez is an Uruguayan professional footballer who plays as a striker. A: 
+INPUT PROMPT > simple false
+False
+PREDICTION > false (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+Deductive
+
+Q: As an expert journalist, classify the following claim as true, false, or unknown using only the provided evidence. CLAIM: Cavani injured an opposing player with a bow. EVIDENCE: Cavani is known for his clinical finishing as well as his celebration, in which he makes a gesture resembling a bow and arrow.  A: 
+INPUT PROMPT > complex false
+Unknown
+PREDICTION > unverified (wrong)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The reasoning is abductive.
+
+Q: As an expert journalist, classify the following claim as true, false, or unknown using only the provided evidence. CLAIM: Cavani is younger than 30. EVIDENCE: Cavani was born on 14 February 1987. A: 
+INPUT PROMPT > number false
+False
+PREDICTION > false (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+Deductive
+
+Q: As an expert journalist, classify the following claim as true, false, or unknown using only the provided evidence. CLAIM: Cavani was born on an odd numbered day. EVIDENCE: Cavani was born on 14 February 1987. A: 
+INPUT PROMPT > time false
+False
+PREDICTION > false (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+Deductive
+
+Q: As an expert journalist, classify the following claim as true, false, or unknown using only the provided evidence. CLAIM: Tom Felton is a Spanish actor. EVIDENCE: Tom Felton is an English actor. A: 
+INPUT PROMPT > simple false
+False
+PREDICTION > false (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+Deductive
+
+Q: As an expert journalist, classify the following claim as true, false, or unknown using only the provided evidence. CLAIM: Tom Felton's only role in the Harry Potter movies was as a centaur. EVIDENCE: Tom Felton is an English actor best known for playing Draco Malfoy in the film adaptations of Harry Potter. A: 
+INPUT PROMPT > complex false
+False
+PREDICTION > false (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+Deductive
+
+Q: As an expert journalist, classify the following claim as true, false, or unknown using only the provided evidence. CLAIM: Tom Felton was born after the last Harry Potter movie released. EVIDENCE: Tom Felton is an English actor best known for playing Draco Malfoy in the film adaptations of Harry Potter. A: 
+INPUT PROMPT > time false
+Unknown
+PREDICTION > unverified (wrong)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+Abductive
+
+Q: As an expert journalist, classify the following claim as true, false, or unknown using only the provided evidence. CLAIM: Tom Felton was born in the 6th month of the year. EVIDENCE: Tom Felton was born on 22 September 1987. A: 
+INPUT PROMPT > time false
+False
+PREDICTION > false (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+Deductive
+
+Q: As an expert journalist, classify the following claim as true, false, or unknown using only the provided evidence. CLAIM: The Crown is about Queen Victoria. EVIDENCE: The Crown is a historical drama television series about the reign of Queen Elizabeth II. A: 
+INPUT PROMPT > simple false
+False
+PREDICTION > false (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+Deductive
+
+Q: As an expert journalist, classify the following claim as true, false, or unknown using only the provided evidence. CLAIM: The Crown does not showcase much of royal life. EVIDENCE: The Crown is a historical drama television series about the reign of Queen Elizabeth II. A: 
+INPUT PROMPT > complex false
+Unknown
+PREDICTION > unverified (wrong)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The reasoning is abductive.
+
+Q: As an expert journalist, classify the following claim as true, false, or unknown using only the provided evidence. CLAIM: The Crown was cancelled after two seasons. EVIDENCE: The sixth season, which will close the series, will cover the Queen's reign into the 21st century. A: 
+INPUT PROMPT > number false
+False
+PREDICTION > false (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+Deductive
+
+Q: As an expert journalist, classify the following claim as true, false, or unknown using only the provided evidence. CLAIM: The Crown television series only covers past centuries. EVIDENCE: The sixth season, which will close the series, will cover the Queen's reign into the 21st century. A: 
+INPUT PROMPT > time false
+False
+PREDICTION > false (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+Deductive
+
+Q: As an expert journalist, classify the following claim as true, false, or unknown using only the provided evidence. CLAIM: The characters in The White Lotus have little difficulty in getting along. EVIDENCE: The White Lotus follows the guests and employees of the fictional White Lotus resort chain, whose interactions are affected by their various psychosocial dysfunctions. A: 
+INPUT PROMPT > simple false
+Unknown
+PREDICTION > unverified (wrong)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+Abductive
+
+Q: As an expert journalist, classify the following claim as true, false, or unknown using only the provided evidence. CLAIM: The White Lotus is primarily set on a cruise ship. EVIDENCE: The White Lotus follows the guests and employees of the fictional White Lotus resort chain. A: 
+INPUT PROMPT > complex false
+False
+PREDICTION > false (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+Deductive
+
+Q: As an expert journalist, classify the following claim as true, false, or unknown using only the provided evidence. CLAIM: The White Lotus has more than two dozen episodes in its first two seasons. EVIDENCE: The first two seasons, totalling 13 episodes, are set in Hawaii and Sicily respectively. A: 
+INPUT PROMPT > number false
+False
+PREDICTION > false (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+Deductive
+
+Q: As an expert journalist, classify the following claim as true, false, or unknown using only the provided evidence. CLAIM: The White Lotus was released before 2020. EVIDENCE: The White Lotus premiered on July 11, 2021, to critical acclaim and high ratings. A: 
+INPUT PROMPT > time false
+False
+PREDICTION > false (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+Deductive
+
+Q: As an expert journalist, classify the following claim as true, false, or unknown using only the provided evidence. CLAIM: A monthly subscription is required to use Tor. EVIDENCE: Tor, short for "The Onion Router," is free and open-source software. A: 
+INPUT PROMPT > simple false
+False
+PREDICTION > false (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+Deductive
+
+Q: As an expert journalist, classify the following claim as true, false, or unknown using only the provided evidence. CLAIM: Tor is named after a fruit. EVIDENCE: Tor, short for "The Onion Router," is free and open-source software  A: 
+INPUT PROMPT > complex false
+False
+PREDICTION > false (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+ERROR
+Deductive
+
+Q: As an expert journalist, classify the following claim as true, false, or unknown using only the provided evidence. CLAIM: Over 9000 relays are used by Tor. EVIDENCE: Tor directs Internet traffic via a free, worldwide, volunteer overlay network that consists of more than seven thousand relays. A: 
+INPUT PROMPT > number false
+False
+PREDICTION > false (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+Deductive
+
+Q: As an expert journalist, classify the following claim as true, false, or unknown using only the provided evidence. CLAIM: Tor software existed during the 20th century. EVIDENCE: Tor was released shortly after the turn of the millennium. A: 
+INPUT PROMPT > time false
+False
+PREDICTION > false (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+Deductive
+
+Q: As an expert journalist, classify the following claim as true, false, or unknown using only the provided evidence. CLAIM: Son Ye-jin has never caught a cold. EVIDENCE: Son Ye-jin (born Son Eon-jin on January 11, 1982) is a South Korean actress. A: 
+INPUT PROMPT > simple unverified
+Unknown
+PREDICTION > unverified (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The reasoning is abductive.
+
+Q: As an expert journalist, classify the following claim as true, false, or unknown using only the provided evidence. CLAIM: Son Ye-jin is loved by every South Korean citizen. EVIDENCE: She rose to fame in 2003 for The Classic and Summer Scent. A: 
+INPUT PROMPT > complex unverified
+Unknown
+PREDICTION > unverified (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+Abductive
+
+Q: As an expert journalist, classify the following claim as true, false, or unknown using only the provided evidence. CLAIM: Son Ye-jin has acted in hundreds of films. EVIDENCE: She since has won various acting recognitions and acted in high-profile films including My Wife Got Married (2008), The Pirates (2014), the 2016 films The Truth Beneath and The Last Princess, and The Negotiation (2018). She has also acted in the successful television dramas Alone in Love (2006), Personal Taste (2010), Something in the Rain (2018), Crash Landing on You (2019–2020), and Thirty-Nine (2022). A: 
+INPUT PROMPT > number unverified
+Unknown
+PREDICTION > unverified (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+Abductive
+
+Q: As an expert journalist, classify the following claim as true, false, or unknown using only the provided evidence. CLAIM: Son Ye-jin, a South Korean actress, is now retired. EVIDENCE: She since has won various acting recognitions and acted in high-profile films including My Wife Got Married (2008), The Pirates (2014), the 2016 films The Truth Beneath and The Last Princess, and The Negotiation (2018). She has also acted in the successful television dramas Alone in Love (2006), Personal Taste (2010), Something in the Rain (2018), Crash Landing on You (2019–2020), and Thirty-Nine (2022). A: 
+INPUT PROMPT > time unverified
+The claim is unknown. The evidence does not provide information on whether Son Ye-jin is retired or not.
+PREDICTION > unverified (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning is abductive.
+
+Q: As an expert journalist, classify the following claim as true, false, or unknown using only the provided evidence. CLAIM: Begium used to be a member of be. EVIDENCE: BRICS is a grouping of the world economies of Brazil, Russia, India, China and South Africa formed by the 2010 addition of South Africa to the predecessor BRIC. A: 
+INPUT PROMPT > simple unverified
+Unknown
+PREDICTION > unverified (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+Deductive
+
+Q: As an expert journalist, classify the following claim as true, false, or unknown using only the provided evidence. CLAIM: BRICS countries are popular tourist destinations. EVIDENCE: BRICS is a grouping of the world economies of Brazil, Russia, India, China and South Africa formed by the 2010 addition of South Africa to the predecessor BRIC. A: 
+INPUT PROMPT > complex unverified
+Unknown
+PREDICTION > unverified (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The reasoning is abductive.
+
+Q: As an expert journalist, classify the following claim as true, false, or unknown using only the provided evidence. CLAIM: There are many BRICS countries. EVIDENCE: The original acronym "BRIC" (or "the BRICs") was coined in 2001 by Goldman Sachs economist Jim O'Neill to describe fast-growing economies that would collectively dominate the global economy by 2050. A: 
+INPUT PROMPT > number unverified
+Unknown
+PREDICTION > unverified (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+Inductive
+
+Q: As an expert journalist, classify the following claim as true, false, or unknown using only the provided evidence. CLAIM: BRICS is now a defunct term. EVIDENCE: The original acronym "BRIC" (or "the BRICs") was coined in 2001. A: 
+INPUT PROMPT > time unverified
+Unknown
+PREDICTION > unverified (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+Inductive
+
+Q: As an expert journalist, classify the following claim as true, false, or unknown using only the provided evidence. CLAIM: Aileen was a good singer. EVIDENCE: Aileen Carol Wuornos was an American serial killer. A: 
+INPUT PROMPT > simple unverified
+Unknown
+PREDICTION > unverified (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The reasoning is abductive.
+
+Q: As an expert journalist, classify the following claim as true, false, or unknown using only the provided evidence. CLAIM: Aileen was at one point married. EVIDENCE: Wuornos claimed that her clients had either raped or attempted to rape her, and that the homicides of the men were committed in self-defense. A: 
+INPUT PROMPT > complex unverified
+Unknown
+PREDICTION > unverified (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The reasoning is abductive.
+
+Q: As an expert journalist, classify the following claim as true, false, or unknown using only the provided evidence. CLAIM: Aileen had 2 children, Alice and Dean. EVIDENCE: Wuornos claimed that her clients had either raped or attempted to rape her, and that the homicides of the men were committed in self-defense.  A: 
+INPUT PROMPT > number unverified
+Unknown
+PREDICTION > unverified (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The reasoning is abductive.
+
+Q: As an expert journalist, classify the following claim as true, false, or unknown using only the provided evidence. CLAIM: Aileen spent over half her life in prison. EVIDENCE: She was executed on October 9, 2002 by lethal injection after spending more than 10 years on Florida's death row. A: 
+INPUT PROMPT > time unverified
+Unknown
+PREDICTION > unverified (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+Abductive
+
+Q: As an expert journalist, classify the following claim as true, false, or unknown using only the provided evidence. CLAIM: Argentina is a wealthy country. EVIDENCE: Argentina, officially the Argentine Republic, is a country in the southern half of South America. Argentina covers an area of 2,780,400 km2 (1,073,500 sq mi). A: 
+INPUT PROMPT > simple unverified
+Unknown
+PREDICTION > unverified (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The reasoning is abductive.
+
+Q: As an expert journalist, classify the following claim as true, false, or unknown using only the provided evidence. CLAIM: Most Argentinians prefer pizza over pasta. EVIDENCE: Argentina claims sovereignty over the Falkland Islands, South Georgia and the South Sandwich Islands, and a part of Antarctica. A: 
+INPUT PROMPT > complex unverified
+Unknown
+PREDICTION > unverified (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The reasoning is not applicable because the evidence provided does not relate to the claim.
+
+Q: As an expert journalist, classify the following claim as true, false, or unknown using only the provided evidence. CLAIM: Over 50 million people live in Argentina. EVIDENCE: Argentina, officially the Argentine Republic, is a country in the southern half of South America. Argentina covers an area of 2,780,400 km2 (1,073,500 sq mi). A: 
+INPUT PROMPT > number unverified
+Unknown
+PREDICTION > unverified (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The reasoning is abductive.
+
+Q: As an expert journalist, classify the following claim as true, false, or unknown using only the provided evidence. CLAIM: Argentina recently won the world cup. EVIDENCE: Argentina claims sovereignty over the Falkland Islands, South Georgia and the South Sandwich Islands, and a part of Antarctica. A: 
+INPUT PROMPT > time unverified
+Unknown
+PREDICTION > unverified (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The reasoning is abductive.
+
+Q: As an expert journalist, classify the following claim as true, false, or unknown using only the provided evidence. CLAIM: Artemis enjoys getting drunk. EVIDENCE: In ancient Greek religion and mythology, Artemis is the goddess of the hunt, the wilderness, wild animals, nature, vegetation, childbirth, care of children, and chastity. A: 
+INPUT PROMPT > simple unverified
+Unknown
+PREDICTION > unverified (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+Deductive
+
+Q: As an expert journalist, classify the following claim as true, false, or unknown using only the provided evidence. CLAIM: Artemis lives on Mount Olympus. EVIDENCE: She often roamed the forests of Greece, attended by her large entourage, mostly made up of nymphs, some mortals, and hunters. A: 
+INPUT PROMPT > complex unverified
+Unknown
+PREDICTION > unverified (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+Abductive
+
+Q: As an expert journalist, classify the following claim as true, false, or unknown using only the provided evidence. CLAIM: Artemis owns a large. EVIDENCE: She often roamed the forests of Greece, attended by her large entourage, mostly made up of nymphs, some mortals, and hunters. A: 
+INPUT PROMPT > number unverified
+Unknown
+PREDICTION > unverified (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+Abductive
+
+Q: As an expert journalist, classify the following claim as true, false, or unknown using only the provided evidence. CLAIM: Artemis was born before the start of the Roman Empire. EVIDENCE: The goddess Diana is her Roman equivalent. A: 
+INPUT PROMPT > time unverified
+Unknown
+PREDICTION > unverified (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+Abductive
+
+PREDICTED
+F T U
+[[16  0  4]
+ [ 0 39  1]
+ [ 0  0 20]]
+
+CORRECT
+{'simple': 19, 'complex': 17, 'number': 19, 'time': 20}
+WRONG
+{'complex': 3, 'time': 1, 'simple': 1}

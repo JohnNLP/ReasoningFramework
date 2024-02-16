@@ -1,0 +1,807 @@
+﻿
+Q: As an expert journalist, classify the following rumour as true, false, or unknown using only the provided evidence. RUMOUR: Building in Dammartin-en-Goele where CharlieHebdo suspects believed to be holed up EVIDENCE: On Friday, security forces killed two suspects in the magazine attack who were holed up in a building north of Paris. A: let's think step by step.
+INPUT PROMPT > simple true
+As an AI language model, I can provide an analysis based on the evidence provided. 
+
+Based on the evidence provided, it is stated that security forces killed two suspects in the magazine attack who were holed up in a building north of Paris. However, there is no direct mention of the location being in Dammartin-en-Goele. 
+
+Therefore, based on the evidence provided, it is unknown whether the building where the suspects were holed up is in Dammartin-en-Goele or not.
+PREDICTION > unverified (wrong)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as deductive reasoning. Deductive reasoning is a logical process in which conclusions are drawn based on premises or evidence that is known or assumed to be true. In this case, the evidence provided is used to draw a conclusion about the location of the building where the suspects were holed up.
+
+Q: As an expert journalist, classify the following rumour as true, false, or unknown using only the provided evidence. RUMOUR: Schools closed , Dammartin-en-Goele residents told to stay indoors , town ' like warzone ' EVIDENCE: Schools went into lockdown and the town appealed to residents to stay inside residents's houses. A: let's think step by step.
+INPUT PROMPT > simple true
+Based on the evidence provided, the rumour can be classified as true. The fact that schools went into lockdown and the town appealed to residents to stay inside their houses suggests that there was a situation of concern or danger in Dammartin-en-Goele, making the town "like a warzone." However, it is important to note that without further information, it is difficult to determine the exact nature of the situation or the extent of the danger.
+PREDICTION > true (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as inductive reasoning. Inductive reasoning involves drawing general conclusions based on specific evidence or observations. In this case, the conclusion that the rumour is true is based on the specific evidence provided, which suggests a situation of concern or danger in the town.
+
+Q: As an expert journalist, classify the following rumour as true, false, or unknown using only the provided evidence. RUMOUR: ThatAwkwardMoment when the Ferguson police chief admits that MikeBrown was stopped for walking in the road . p2 EVIDENCE: The Ferguson police officer who shot Michael Brown didn't stop Michael Brown because Michael Brown was suspected in a convenience-store robbery, but because Michael Brown was walking down the middle of the street blocking traffic, Ferguson's police chief said Friday. A: let's think step by step.
+INPUT PROMPT > simple true
+Based on the evidence provided, the Ferguson police chief admits that Michael Brown was stopped for walking in the road and blocking traffic, not because he was suspected in a convenience-store robbery. Therefore, the rumour is classified as true.
+PREDICTION > true (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as deductive reasoning. Deductive reasoning is a logical process where specific conclusions are drawn from general principles or premises. In this case, the conclusion that the rumour is true is derived from the specific evidence provided by the Ferguson police chief's statement.
+
+Q: As an expert journalist, classify the following rumour as true, false, or unknown using only the provided evidence. RUMOUR: Ferguson Police Chief says MikeBrown was stopped because he was walking in road NOT because he was suspected of stealing cigars . EVIDENCE: The Ferguson police officer who shot Michael Brown didn't stop Michael Brown because Michael Brown was suspected in a convenience-store robbery, but because Michael Brown was walking down the middle of the street blocking traffic, Ferguson's police chief said Friday. A: let's think step by step.
+INPUT PROMPT > simple true
+As an AI language model, I can provide an analysis based on the evidence provided. 
+
+Based on the evidence provided, the Ferguson police chief stated that the officer stopped Michael Brown because he was walking down the middle of the street, blocking traffic. This contradicts the claim that Michael Brown was stopped because he was suspected of stealing cigars from a convenience store. 
+
+Therefore, based on the evidence, the rumour that Ferguson Police Chief says Mike Brown was stopped because he was walking in the road, not because he was suspected of stealing cigars, can be classified as true.
+PREDICTION > true (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as deductive reasoning. Deductive reasoning is a logical process in which conclusions are drawn based on premises or evidence that is known or assumed to be true. In this case, the conclusion is reached by directly analyzing and interpreting the provided evidence to determine the truth of the rumour.
+
+Q: As an expert journalist, classify the following rumour as true, false, or unknown using only the provided evidence. RUMOUR: Recovered black box shows a pilot was locked out of the Germanwings cockpit before the crash EVIDENCE: Germanwings plane crash: Pilot locked out of cockpit before aircraft hit French Alps, says investigator, German state prosecutor The official described hearing one of the pilots the cockpit lightly knocked on the door at first - before pounding on the door. A: let's think step by step.
+INPUT PROMPT > simple true
+As an AI language model, I can provide an analysis based on the evidence provided. 
+
+Based on the evidence provided, which includes a statement from a German state prosecutor, it can be classified as true that the recovered black box shows a pilot was locked out of the Germanwings cockpit before the crash. The official described hearing one of the pilots knocking on the door lightly at first and then pounding on the door. This suggests that the pilot was unable to regain access to the cockpit, which supports the claim that they were locked out.
+PREDICTION > true (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as inductive reasoning. Inductive reasoning involves drawing general conclusions based on specific evidence or observations. In this case, the evidence provided (the statement from the German state prosecutor) is used to make a general conclusion that the recovered black box shows a pilot was locked out of the cockpit before the crash.
+
+Q: As an expert journalist, classify the following rumour as true, false, or unknown using only the provided evidence. RUMOUR: BREAKING Germanwings 4U9525 co-pilot's name is Andreas Lubitz , a German national , says Marseilles prosecutor . EVIDENCE: The co-pilot of the Germanwings Airbus A320 that crashed in the French Alps has been named by French authorities as German national Andreas Lubitz. A: let's think step by step.
+INPUT PROMPT > simple true
+As an expert journalist, based on the provided evidence, the rumour that the co-pilot's name is Andreas Lubitz, a German national, has been confirmed as true. The evidence states that French authorities have named the co-pilot as German national Andreas Lubitz.
+PREDICTION > true (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as deductive reasoning. Deductive reasoning is a logical process in which conclusions are drawn based on premises or evidence that is known or assumed to be true. In this case, the evidence provided directly supports the conclusion that the rumour is true.
+
+Q: As an expert journalist, classify the following rumour as true, false, or unknown using only the provided evidence. RUMOUR: UPDATE : Attacker shot dead in Parliament after soldier shot at War Memorial OttawaShooting EVIDENCE: A soldier on guard at the war memorial is dead, and authorities also shot and killed a suspected gunman A: let's think step by step.
+INPUT PROMPT > simple true
+As an AI language model, I can provide an analysis based on the evidence provided. 
+
+Based on the evidence provided, it can be classified as true that a soldier on guard at the war memorial is dead. Additionally, it is also true that authorities shot and killed a suspected gunman. However, the evidence does not provide information about whether the attacker was shot dead in Parliament. Therefore, the classification of the rumor as true, false, or unknown regarding the attacker being shot dead in Parliament cannot be determined solely based on the provided evidence.
+PREDICTION > unverified (wrong)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as deductive reasoning. Deductive reasoning is a logical process in which specific conclusions are drawn from general principles or premises. In this case, the evidence provided is used to draw specific conclusions about the soldier's death and the killing of a suspected gunman.
+
+Q: As an expert journalist, classify the following rumour as true, false, or unknown using only the provided evidence. RUMOUR: Ottawa police confirm 1 male shooting suspect died ; no one in custody - @OttawaPolice EVIDENCE: Ottawa Police say ' a male suspect has been confirmed deceased, ' but it's unclear how a male suspect died or if a male suspect died at the Parliament building. A: let's think step by step.
+INPUT PROMPT > simple true
+As an expert journalist, based on the provided evidence, the classification of the rumor would be unknown. The evidence states that the Ottawa Police confirmed a male suspect has been confirmed deceased, but it does not provide any information on how or where the suspect died. Therefore, without further information, it is not possible to determine the accuracy of the rumor.
+PREDICTION > unverified (wrong)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as abductive reasoning. Abductive reasoning involves making an inference to the best explanation based on the available evidence. In this case, the journalist is examining the evidence provided and drawing a conclusion based on the information at hand.
+
+Q: As an expert journalist, classify the following rumour as true, false, or unknown using only the provided evidence. RUMOUR: Australian TV pictures show police storming cafe under siege in Sydney EVIDENCE: Two people died, along with an Islamist gunman, after commandos stormed a cafe in Sydney, Australia, to bring to an end a 16-hour siege. A: let's think step by step.
+INPUT PROMPT > simple true
+As an expert journalist, based on the evidence provided, the rumour can be classified as true. The evidence states that two people died, along with an Islamist gunman, after commandos stormed a cafe in Sydney to end a 16-hour siege. This confirms that the police did indeed storm the cafe under siege in Sydney.
+PREDICTION > true (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as deductive reasoning. Deductive reasoning is a logical process in which conclusions are drawn based on premises or evidence that is known or assumed to be true. In this case, the evidence provided directly supports the conclusion that the rumour is true.
+
+Q: As an expert journalist, classify the following rumour as true, false, or unknown using only the provided evidence. RUMOUR: Uber backtracks , offers free rides after prices were gouged for people fleeing from Sydney hostage drama : EVIDENCE: Following an outcry on social media, Uber Sydney changed tack and is currently offering free rides for passengers trying to leave the city to help Sydneysiders get home safely. A: let's think step by step.
+INPUT PROMPT > simple true
+As an expert journalist, based on the provided evidence, the rumour can be classified as true. The evidence states that Uber Sydney changed its approach and is currently offering free rides for passengers trying to leave the city. This aligns with the initial claim that Uber backtracked and offered free rides after prices were gouged during the Sydney hostage drama.
+PREDICTION > true (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as inductive reasoning. Inductive reasoning involves drawing a general conclusion based on specific evidence or observations. In this case, the conclusion that the rumour is true is based on the specific evidence provided, which shows that Uber Sydney is currently offering free rides after an outcry on social media.
+
+Q: As an expert journalist, classify the following rumour as true, false, or unknown using only the provided evidence. RUMOUR: CharlieHebdo hostage freed in Dammartin - Kouachi brothers both killed , AFP reports  EVIDENCE: According to police, on Friday Coulibaly targeted the Porte de Vincennes kosher supermarket, threatening to kill 16 hostages in the market if the Kouachi brothers were apprehended by police. French police stormed two hostage sites and killed the brothers suspected of leading the massacre at Charlie Hebdo newspaper and a related gunman. A: let's think step by step.
+INPUT PROMPT > complex true
+Based on the provided evidence, it can be classified as true that the Kouachi brothers were killed by French police. However, there is no direct evidence provided regarding the freedom of the Charlie Hebdo hostage in Dammartin. Therefore, the status of the Charlie Hebdo hostage being freed remains unknown based on the given evidence.
+PREDICTION > unverified (wrong)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as abductive reasoning. Abductive reasoning involves making an inference to the best explanation based on the available evidence. In this case, the evidence is analyzed to determine the most plausible explanation for the given rumor.
+
+Q: As an expert journalist, classify the following rumour as true, false, or unknown using only the provided evidence. RUMOUR: CharlieHebdo killers dead , confirmed by gendarmerie . EVIDENCE: Brothers accused over the Charlie Hebdo massacre killed as police launch assault A: let's think step by step.
+INPUT PROMPT > complex true
+As an AI language model, I can provide an analysis based on the evidence provided. 
+
+Based on the evidence provided, it states that the brothers accused over the Charlie Hebdo massacre were killed as the police launched an assault. This suggests that the rumor of the Charlie Hebdo killers being dead is likely true. However, it is important to note that without further information or confirmation from official sources, it is difficult to classify the rumor with absolute certainty.
+PREDICTION > true (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as deductive reasoning. Deductive reasoning is a logical process in which conclusions are drawn based on premises or evidence that is known or assumed to be true. In this case, the evidence provided (the brothers accused over the Charlie Hebdo massacre being killed as police launched an assault) leads to the conclusion that the rumor of the Charlie Hebdo killers being dead is likely true.
+
+Q: As an expert journalist, classify the following rumour as true, false, or unknown using only the provided evidence. RUMOUR: MSNBC is literally reporting that Police Chief CLEARLY said it was about jay walking . This is a fucking clown show . Ferguson EVIDENCE: The Ferguson police officer who shot Michael Brown didn’t stop Michael Brown because Michael Brown was suspected in a convenience-store robbery, but because Michael Brown was walking down the middle of the street blocking traffic, Ferguson's police chief said Friday. A: let's think step by step.
+INPUT PROMPT > complex true
+Based on the evidence provided, the Ferguson police chief stated that the reason the police officer stopped Michael Brown was because he was walking down the middle of the street blocking traffic, not because he was suspected in a convenience-store robbery. Therefore, the evidence does not support the claim that MSNBC reported the police chief clearly said it was about jaywalking. 
+
+However, without further evidence or confirmation from MSNBC, it is unknown whether they reported this specific information or if the claim of it being a "clown show" is accurate.
+PREDICTION > unverified (wrong)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as deductive reasoning. Deductive reasoning is a logical process in which specific conclusions are drawn from general principles or premises. In this case, the evidence provided (the statement from the Ferguson police chief) is used to reach a specific conclusion about the rumour.
+
+Q: As an expert journalist, classify the following rumour as true, false, or unknown using only the provided evidence. RUMOUR: This Ferguson PD chief press conference is AMAZING.. . he just ADMITTED Darren Wilson stopped him bc of the jaywalking . EVIDENCE: On the morning of Friday, August 15, the Ferguson Police Department released the name of the officer involved in the shooting death of unarmed teenager Michael Brown: Darren Wilson, a six-year veteran of the Ferguson Police Department with no prior disciplinary record. The Ferguson Police Department is now trying to paint Mike Brown as a robbery suspect in order to justify his shooting. Mike Brown had been stopped ' because Mike Brown was walking down the street blocking traffic, that's it, ' Ferguson Police Chief Thomas Jackson added. A: let's think step by step.
+INPUT PROMPT > complex true
+Based on the evidence provided, it can be classified as true that Ferguson Police Chief Thomas Jackson stated that Mike Brown had been stopped because he was walking down the street blocking traffic. However, there is no evidence provided to support or refute the claim that the press conference was "AMAZING" or that Chief Jackson "just ADMITTED" that Darren Wilson stopped him because of jaywalking. Therefore, the classification of the rumor as true, false, or unknown cannot be determined based on the provided evidence.
+PREDICTION > unverified (wrong)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as abductive reasoning. Abductive reasoning involves making an inference to the best explanation based on the available evidence. In this case, the evidence provided is used to infer the truth value of the rumor.
+
+Q: As an expert journalist, classify the following rumour as true, false, or unknown using only the provided evidence. RUMOUR: Recovered black box shows a pilot was locked out of the Germanwings cockpit before the crash  EVIDENCE: The official described hearing one of the pilots the cockpit lightly knocked on the door at first - before pounding on the door. A: let's think step by step.
+INPUT PROMPT > complex true
+As an AI language model, I can provide an analysis based on the evidence provided. However, it's important to note that I am not an expert journalist and cannot provide a definitive classification. 
+
+Based on the evidence provided, it suggests that one of the pilots was locked out of the cockpit before the crash. The official described hearing a light knock on the door initially, followed by pounding on the door. This information supports the rumor that a pilot was locked out.
+
+However, it's important to consider that this evidence alone may not be sufficient to classify the rumor as true, false, or unknown. Additional evidence, such as data from the recovered black box or official investigations, would be necessary to make a more accurate determination.
+PREDICTION > unverified (wrong)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as abductive reasoning. Abductive reasoning involves making an inference or hypothesis based on the available evidence, even if it is not conclusive. In this case, the evidence provided is used to support the hypothesis that a pilot was locked out of the cockpit before the crash. However, without further evidence or investigation, it cannot be definitively concluded as true, false, or unknown.
+
+Q: As an expert journalist, classify the following rumour as true, false, or unknown using only the provided evidence. RUMOUR: French prosecutor names co-pilot of germanwings plane that crashed in the Alps as Andreas Lubitz . He was at controls of plane . EVIDENCE: Germanwings plane crash: Co-pilot Andreas Lubitz crashed Germanwings plane deliberately, French prosecutor says A: let's think step by step.
+INPUT PROMPT > complex true
+As an expert journalist, based on the provided evidence, the rumour can be classified as true. The evidence states that the French prosecutor has named the co-pilot of the Germanwings plane that crashed in the Alps as Andreas Lubitz and further mentions that he deliberately crashed the plane.
+PREDICTION > true (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as deductive reasoning. Deductive reasoning is a logical process where specific conclusions are drawn from general principles or premises. In this case, the evidence provided directly supports the conclusion that the rumour is true.
+
+Q: As an expert journalist, classify the following rumour as true, false, or unknown using only the provided evidence. RUMOUR: ICYMI : Sergeant-at-Arms Kevin Vickers hailed as hero for stopping shooter on Parliament Hill EVIDENCE: The man being hailed as a hero for reportedly shooting a gunman in Canada's national parliament is Kevin Vickers, who, as the holder of the post of sergeant-at-ams, is officially responsible for safety and security within the grounds of the building. A: let's think step by step.
+INPUT PROMPT > complex true
+Based on the evidence provided, it can be classified as true that Kevin Vickers, the Sergeant-at-Arms, is being hailed as a hero for reportedly shooting a gunman on Parliament Hill. The evidence states that he is officially responsible for safety and security within the grounds of the building, which suggests that he would be in a position to take action in such a situation.
+PREDICTION > true (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as abductive reasoning. Abductive reasoning involves making an inference to the best explanation based on the available evidence. In this case, the evidence suggests that Kevin Vickers, as the Sergeant-at-Arms responsible for security, would be the likely person to stop a shooter, leading to the conclusion that he is being hailed as a hero for doing so.
+
+Q: As an expert journalist, classify the following rumour as true, false, or unknown using only the provided evidence. RUMOUR: UPDATE : Shots fired on Parliament Hill , soldier injured at National War Memorial in Ottawa EVIDENCE: A gunman opened fire at Canada's National War Memorial on Wednesday, killing one soldier, Ottawa police said in a statement. A: let's think step by step.
+INPUT PROMPT > complex true
+As an expert journalist, based on the provided evidence, the following classification can be made:
+
+RUMOUR: UPDATE: Shots fired on Parliament Hill, soldier injured at National War Memorial in Ottawa
+
+EVIDENCE: A gunman opened fire at Canada's National War Memorial on Wednesday, killing one soldier, Ottawa police said in a statement.
+
+Classification: True
+
+Based on the evidence provided, it is confirmed that shots were fired at Canada's National War Memorial, resulting in the death of one soldier.
+PREDICTION > true (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as deductive reasoning. Deductive reasoning is a logical process in which conclusions are drawn based on premises or evidence that is known or assumed to be true. In this case, the evidence provided directly supports the conclusion that the rumour is true.
+
+Q: As an expert journalist, classify the following rumour as true, false, or unknown using only the provided evidence. RUMOUR: UPDATE : There are reports police have discovered the identity of the lone gunman , with the SydneySiege in its sixth hour . 9News EVIDENCE: Police are negotiating with a gunman who is holding a number of people inside a central Sydney cafe, hours after five hostages ran from a central Sydney cafe. The gunman who killed 26 people at a Connecticut school last year had ' an obsession ' with the 1999 Columbine massacre, an official report has found. A: let's think step by step.
+INPUT PROMPT > complex true
+Based on the evidence provided, it is unknown whether the rumour is true or false. The evidence states that police are negotiating with a gunman who is holding people inside a central Sydney cafe. However, there is no mention of the police discovering the identity of the lone gunman. Therefore, without any evidence supporting or refuting the rumour, it remains unknown.
+PREDICTION > unverified (wrong)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as abductive reasoning. Abductive reasoning involves making an inference to the best explanation based on the available evidence. In this case, the evidence provided does not directly confirm or refute the rumour, so the reasoning is based on the best possible explanation given the information provided.
+
+Q: As an expert journalist, classify the following rumour as true, false, or unknown using only the provided evidence. RUMOUR: Terrified faces of hostages taken by jihadists in of worrying about ' image of Islam ' , worry about them ! EVIDENCE: Chilling early images showed some hostages apparently forced to hold a black and white flag against the window bearing the Islamic creed, raising fears that a terrorist attack was under way. One of the first acts of the gunman who seized a cafe in the heart of Sydney was to force hostages to display a black and white flag bearing the Islamic creed, or Shahada. However, the flag displayed above hostages at the Lindt Chocolate Cafe in Sydney is different from the one Islamic State uses. A: let's think step by step.
+INPUT PROMPT > complex true
+Based on the evidence provided, it can be classified as true that some hostages were forced to hold a black and white flag bearing the Islamic creed at the Lindt Chocolate Cafe in Sydney. However, it is also mentioned that the flag displayed is different from the one used by the Islamic State. Therefore, the classification of the rumor as true, false, or unknown cannot be determined solely based on the provided evidence.
+PREDICTION > unverified (wrong)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as abductive reasoning. Abductive reasoning involves making an inference to the best explanation based on the available evidence. In this case, the evidence is analyzed to determine the classification of the rumor as true, false, or unknown.
+
+Q: As an expert journalist, classify the following rumour as true, false, or unknown using only the provided evidence. RUMOUR: Paris police say 11 dead after shooting at French satirical weekly Charlie Hebdo  EVIDENCE: At least 12 people were killed during a shooting at the headquarters of the satirical Charlie Hebdo weekly in Paris, police say. A: let's think step by step.
+INPUT PROMPT > nt true
+As an expert journalist, based on the provided evidence, the rumour can be classified as true. The evidence states that at least 12 people were killed during a shooting at the headquarters of Charlie Hebdo, which aligns with the initial rumour of 11 dead.
+PREDICTION > true (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as deductive reasoning. Deductive reasoning is a logical process where specific conclusions are drawn from general principles or premises. In this case, the evidence directly supports the initial rumour, leading to the conclusion that the rumour is true.
+
+Q: As an expert journalist, classify the following rumour as true, false, or unknown using only the provided evidence. RUMOUR: At least five people have been taken hostage at the kosher grocery , reports say ParisAttacks EVIDENCE: An armed man has taken at least 6 people hostage at a kosher grocery store, among at least 6 people women and children. A: let's think step by step.
+INPUT PROMPT > nt true
+As an expert journalist, based on the provided evidence, the rumour can be classified as true. The evidence states that an armed man has taken at least 6 people hostage at a kosher grocery store, including women and children. This aligns with the initial rumour that at least five people have been taken hostage at the kosher grocery.
+PREDICTION > true (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as deductive reasoning. Deductive reasoning is a logical process where specific conclusions are drawn from general principles or premises. In this case, the evidence provided directly supports the initial rumour, leading to the conclusion that the rumour is true.
+
+Q: As an expert journalist, classify the following rumour as true, false, or unknown using only the provided evidence. RUMOUR: SYDNEYSIEGE : Loud bang heard , five more hostages run from Lindt cafe - WATCH LIVE : EVIDENCE: Police swooped into a Sydney cafe Tuesday shortly after five or six hostages were seen running out of a Sydney cafe. A: let's think step by step.
+INPUT PROMPT > nt true
+As an expert journalist, it is important to analyze the evidence provided and classify the rumor based on that information.
+
+1. Rumor: SYDNEYSIEGE - Loud bang heard, five more hostages run from Lindt cafe.
+2. Evidence: Police swooped into a Sydney cafe Tuesday shortly after five or six hostages were seen running out of a Sydney cafe.
+
+Based on the evidence provided, we can classify the rumor as "unknown." While the evidence confirms that police took action and that hostages were seen running out of the cafe, it does not provide any information about the loud bang or the specific circumstances surrounding it. Without further information, it is not possible to determine the veracity of the rumor.
+PREDICTION > unverified (wrong)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as abductive reasoning. Abductive reasoning involves making an inference to the best explanation based on the available evidence. In this case, the journalist is using the evidence of police action and hostages running out of the cafe to make an inference about the truth or falsity of the rumor.
+
+Q: As an expert journalist, classify the following rumour as true, false, or unknown using only the provided evidence. RUMOUR: Only photo I will tweet . CPR being performed on the soldier now . I heard four shots . ottawa EVIDENCE: OTTAWA Reuters - A gunman shot and wounded a soldier in Ottawa and then entered the country's parliament buildings chased by police, with at least 30 shots fired, according to media and eyewitness reports on Wednesday. OTTAWA The NHL postponed Wednesday night's game between the OTTAWA Senators and the Toronto Maple Leafs following the shootings on Parliament Hill and at the National War Memorial. Security at the Alberta legislature will be stepped up following the shootings in Ottawa and Parliament Hill on Wednesday, Premier Jim Prentice said. A: let's think step by step.
+INPUT PROMPT > nt true
+Based on the evidence provided, the rumour that a soldier was shot in Ottawa is true. The evidence mentions that a soldier was shot and wounded in Ottawa, with at least 30 shots fired. However, there is no evidence provided regarding the specific details of CPR being performed on the soldier or the number of shots heard. Therefore, the information regarding CPR and the number of shots heard remains unknown.
+PREDICTION > unverified (wrong)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as inductive reasoning. Inductive reasoning involves drawing general conclusions based on specific evidence or observations. In this case, the conclusion about the rumour being true is based on the specific evidence provided about the shooting in Ottawa.
+
+Q: As an expert journalist, classify the following rumour as true, false, or unknown using only the provided evidence. RUMOUR: Germanwings ' sorry to confirm ' 144 passengers and 6 crew on board flight 4U9525 when it crashed in French Alps EVIDENCE: The crash of Germanwings flight 4U9525 in the French Alps with the presumed loss of 150 lives occurred after an unexplained and relatively smooth eight-minute descent. A: let's think step by step.
+INPUT PROMPT > nt true
+As an AI language model, I can provide an analysis based on the evidence provided. 
+
+Based on the evidence provided, it is stated that the crash of Germanwings flight 4U9525 in the French Alps occurred with the presumed loss of 150 lives. This evidence suggests that the rumor of 144 passengers and 6 crew members being on board the flight is false. 
+
+However, it is important to note that the evidence does not explicitly mention the exact number of passengers and crew members on board the flight. Therefore, the classification of the rumor as false is based on the presumption that the loss of 150 lives includes both passengers and crew members. 
+
+In conclusion, based on the evidence provided, the rumor of 144 passengers and 6 crew members on board flight 4U9525 is classified as false.
+PREDICTION > false (wrong)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as deductive reasoning. Deductive reasoning is a logical process in which conclusions are drawn based on premises or evidence that is known or assumed to be true. In this case, the evidence provided states that the crash occurred with the presumed loss of 150 lives, which contradicts the rumor of 144 passengers and 6 crew members. Therefore, the conclusion that the rumor is false is derived from the evidence through deductive reasoning.
+
+Q: As an expert journalist, classify the following rumour as true, false, or unknown using only the provided evidence. RUMOUR: BREAKING : a Germanwings A320 has crashed in the French Alps with 142 passengers on board @9NewsAUS EVIDENCE: The crash of Germanwings flight 4U9525 in the French Alps with the presumed loss of 150 lives occurred after an unexplained and relatively smooth eight-minute descent. A: let's think step by step.
+INPUT PROMPT > nt true
+As an expert journalist, based on the provided evidence, we can classify the rumor as true. The evidence states that Germanwings flight 4U9525 crashed in the French Alps with the presumed loss of 150 lives. This aligns with the initial rumor of a Germanwings A320 crashing with passengers on board.
+PREDICTION > true (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as deductive reasoning. Deductive reasoning is a logical process where specific conclusions are drawn from general principles or premises. In this case, the evidence provided directly supports the conclusion that the rumor is true.
+
+Q: As an expert journalist, classify the following rumour as true, false, or unknown using only the provided evidence. RUMOUR: Twenty-four-year-old Cpl . Nathan Cirillo was shot dead today at the War Memorial in Ottawa . cdnpoli OttawaShooting EVIDENCE: Nathan Cirillo, 24, was shot after a gunman opened fire in the nation's capital just before 10 a.m this morning. A: let's think step by step.
+INPUT PROMPT > nt true
+As an AI language model, I can provide some analysis based on the evidence provided. 
+
+Based on the evidence, it is true that a 24-year-old named Nathan Cirillo was shot today at the War Memorial in Ottawa. The evidence states that he was shot after a gunman opened fire in the nation's capital just before 10 a.m. Therefore, the rumor that Cpl. Nathan Cirillo was shot dead at the War Memorial in Ottawa is true.
+PREDICTION > true (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as deductive reasoning. Deductive reasoning is a logical process in which conclusions are drawn from given premises or evidence. In this case, the evidence provided directly supports the conclusion that the rumor is true.
+
+Q: As an expert journalist, classify the following rumour as true, false, or unknown using only the provided evidence. RUMOUR: DEVELOPING : Police : Shooting near Canadian Parliament ; soldier wounded ; active situation : EVIDENCE: Ottawa Police spokesperson Marc Soucy told the CBC that police cannot confirm the number of shooters, just that the number of shooters is more than one. A: let's think step by step.
+INPUT PROMPT > nt true
+Based on the evidence provided, the rumour can be classified as true. The evidence states that there was a shooting near the Canadian Parliament, a soldier was wounded, and the situation is active. Additionally, the Ottawa Police spokesperson confirmed that there is more than one shooter, indicating that the situation is ongoing and potentially dangerous.
+PREDICTION > true (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as abductive reasoning. Abductive reasoning involves making an inference or conclusion based on the best explanation or interpretation of the available evidence. In this case, the evidence suggests that the rumour is true, and the reasoning is based on the best explanation of the information provided.
+
+Q: As an expert journalist, classify the following rumour as true, false, or unknown using only the provided evidence. RUMOUR: Vision shows three hostage escaping from the Lindt in MartinPlace SydneySiege  EVIDENCE: Video: At least five people have now escaped the hostage situation that has been going on for hours Police say a hostage situation in Sydney is over after a swarm of heavily armed police stormed a downtown cafe where a gunman had been holding an unknown number of people. A: let's think step by step.
+INPUT PROMPT > nt true
+As an AI language model, I can provide an analysis based on the evidence provided. 
+
+Based on the evidence provided, it is stated that at least five people have escaped the hostage situation. However, there is no specific mention of three hostages escaping from the Lindt cafe in Martin Place. Therefore, we cannot classify the rumor as true based on the given evidence. 
+
+The evidence does not provide any information about the specific number of hostages who escaped or whether the escapees were from the Lindt cafe in Martin Place. Hence, the classification of the rumor would be unknown based on the provided evidence.
+PREDICTION > unverified (wrong)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as deductive reasoning. Deductive reasoning is a logical process in which specific conclusions are drawn from general principles or premises. In this case, the evidence provided is used to draw a specific conclusion about the classification of the rumor.
+
+Q: As an expert journalist, classify the following rumour as true, false, or unknown using only the provided evidence. RUMOUR: Hostage situation ongoing in Sydney business district . LIVE : UPDATES : EVIDENCE: Monday, Australian Eastern Daylight Time, the gunman is holding up a Lindt Chocolate Cafe in Martin Place, a business district in Sydney. A: let's think step by step.
+INPUT PROMPT > nt true
+As an AI language model, I can provide an analysis based on the information provided. However, please note that the accuracy of the classification may vary depending on the latest information available at the time of your question. 
+
+Based on the evidence provided, it appears that there is a hostage situation ongoing in the Sydney business district. The evidence states that a gunman is holding up a Lindt Chocolate Cafe in Martin Place, which is a business district in Sydney. Therefore, the rumour can be classified as true based on the provided evidence. However, it is important to note that this classification is based solely on the information given and may not reflect the current situation. It is always recommended to refer to reliable news sources for the most up-to-date and accurate information.
+PREDICTION > true (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as deductive reasoning. Deductive reasoning is a logical process in which specific conclusions are drawn from general principles or premises. In this case, the evidence provided (gunman holding up a cafe in the business district) leads to the specific conclusion that there is a hostage situation ongoing in the Sydney business district.
+
+Q: As an expert journalist, classify the following rumour as true, false, or unknown using only the provided evidence. RUMOUR: Banksy account joins cartoonists support for CharlieHebdo JeSuisCharlie EVIDENCE: However, a spokesperson for Banksy told The Independent: ' Banksy can confirm this is not by Banksy. ' A: let's think step by step.
+INPUT PROMPT > simple false
+Based on the evidence provided, the spokesperson for Banksy explicitly stated that the account joining the cartoonists' support for Charlie Hebdo is not by Banksy. Therefore, the rumour can be classified as false.
+PREDICTION > false (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as deductive reasoning. Deductive reasoning is a logical process where specific conclusions are drawn from general principles or premises. In this case, the conclusion that the rumour is false is derived directly from the statement made by the spokesperson for Banksy.
+
+Q: As an expert journalist, classify the following rumour as true, false, or unknown using only the provided evidence. RUMOUR: SydneySiege latest : Reports of an incident at Sydney Opera House EVIDENCE: Sydney, Dec 15: The Opera House in Sydney cancelled Monday night's performances in the light of the situation in the central business district here, where over 30 people are being held hostage by a gunman at a cafe. A: let's think step by step.
+INPUT PROMPT > simple false
+As an expert journalist, based on the provided evidence, we can classify the rumor as unknown. The evidence states that the Opera House in Sydney canceled Monday night's performances due to a situation in the central business district where people are being held hostage by a gunman at a cafe. However, there is no direct mention of an incident specifically at the Sydney Opera House. Therefore, without further information, it is not possible to determine if the rumor is true or false.
+PREDICTION > false (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as abductive reasoning. Abductive reasoning involves making an inference or hypothesis based on the available evidence, even if it does not provide a definitive answer. In this case, the evidence does not directly confirm or refute the rumor, but the reasoning is based on the available information to make an educated guess about the classification of the rumor.
+
+Q: As an expert journalist, classify the following rumour as true, false, or unknown using only the provided evidence. RUMOUR: ChalieHebdo terrorists are held up in a warehouse with hostages . JeSuisCharlie EVIDENCE: A hostage being held at a printing shop in Dammartin-en-Goele survived, and people ran out of a kosher grocery store in eastern Paris where hostages were being held. A: let's think step by step.
+INPUT PROMPT > simple false
+As an expert journalist, it is important to analyze the evidence provided and classify the rumor based on that information.
+
+1. Evidence: A hostage being held at a printing shop in Dammartin-en-Goele survived.
+This evidence suggests that there was a hostage situation at a printing shop, but it does not provide any information about the Charlie Hebdo terrorists being held up in a warehouse. Therefore, this evidence does not support the rumor.
+
+2. Evidence: People ran out of a kosher grocery store in eastern Paris where hostages were being held.
+This evidence confirms that there was a hostage situation at a kosher grocery store in eastern Paris. However, it does not provide any information about the Charlie Hebdo terrorists being held up in a warehouse. Therefore, this evidence does not support the rumor either.
+
+Based on the provided evidence, it is unknown whether the rumor about the Charlie Hebdo terrorists being held up in a warehouse with hostages is true or false. The evidence only confirms separate hostage situations at a printing shop and a kosher grocery store, but it does not provide any information about a warehouse or the specific whereabouts of the terrorists.
+PREDICTION > false (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as inductive reasoning. Inductive reasoning involves drawing general conclusions based on specific evidence or observations. In this case, the evidence provided is analyzed to determine whether it supports or refutes the rumor. The conclusion reached is that the rumor is unknown based on the lack of evidence supporting it.
+
+Q: As an expert journalist, classify the following rumour as true, false, or unknown using only the provided evidence. RUMOUR: Banksy ' Instagram tribute to CharlieHebdo victims not posted by artist Pic : Lucille Clerc EVIDENCE: This image was posted on a ' banksy ' Instagram account yesterday, but isn't by ' banksy '. A: let's think step by step.
+INPUT PROMPT > simple false
+As an expert journalist, I would classify the rumor as true based on the provided evidence. The evidence states that the image was posted on a 'banksy' Instagram account but was not created by 'banksy'. Therefore, it suggests that the tribute to Charlie Hebdo victims was not posted by the artist Banksy.
+PREDICTION > true (wrong)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as deductive reasoning. Deductive reasoning is a logical process where specific conclusions are drawn from general principles or premises. In this case, the evidence provided (the image not being created by Banksy) leads to the specific conclusion that the tribute to Charlie Hebdo victims was not posted by Banksy.
+
+Q: As an expert journalist, classify the following rumour as true, false, or unknown using only the provided evidence. RUMOUR: ALERT France's transport minister says distress signal was sent from Germanwings plane - @patthomas , @europe1 EVIDENCE: The cause of the crash is not known and the plane sent no distress signal during an eight-minute descent. A: let's think step by step.
+INPUT PROMPT > simple false
+As an expert journalist, based on the provided evidence, we can classify the rumor as false. The evidence clearly states that the plane sent no distress signal during the descent. Therefore, the statement made by France's transport minister about a distress signal being sent from the Germanwings plane is not supported by the evidence.
+PREDICTION > false (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as deductive reasoning. Deductive reasoning is a logical process where conclusions are drawn based on premises or evidence that is known or assumed to be true. In this case, the evidence provided states that the plane sent no distress signal, which contradicts the statement made by France's transport minister. Therefore, the conclusion that the rumor is false is derived from the evidence using deductive reasoning.
+
+Q: As an expert journalist, classify the following rumour as true, false, or unknown using only the provided evidence. RUMOUR: Banksy says JeSuisCharlie in a beautiful way vi @lukeeve EVIDENCE: However, a spokesperson for Banksy told The Independent: ' Banksy can confirm this is not by Banksy. ' A: let's think step by step.
+INPUT PROMPT > simple false
+Based on the evidence provided, the spokesperson for Banksy explicitly stated that the claim is not true. Therefore, the rumour that Banksy said "JeSuisCharlie" in a beautiful way is false.
+PREDICTION > false (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as deductive reasoning. Deductive reasoning is a logical process where conclusions are drawn based on premises or evidence that is known or assumed to be true. In this case, the conclusion that the rumour is false is derived directly from the statement made by the spokesperson for Banksy.
+
+Q: As an expert journalist, classify the following rumour as true, false, or unknown using only the provided evidence. RUMOUR: Ottawa Police report a third shooting at Rideau Centre , no reports of injuries . EVIDENCE: The police had previously reported a third shooting outside the Rideau Centre mall, but retracted that statement. A: let's think step by step.
+INPUT PROMPT > simple false
+As an AI language model, I can provide you with guidance on how to approach classifying the rumor based on the provided evidence. Here's a step-by-step analysis:
+
+1. Identify the rumor: The rumor states that there was a third shooting at Rideau Centre in Ottawa, with no reports of injuries.
+
+2. Examine the evidence: The evidence states that the police had initially reported a third shooting outside the Rideau Centre mall but later retracted that statement.
+
+3. Analyze the evidence: The fact that the police initially reported a third shooting suggests that there might have been some basis for the rumor. However, the retraction of the statement indicates that the information was incorrect or misleading.
+
+4. Classify the rumor: Based on the evidence, the rumor can be classified as false. The retraction of the police statement indicates that there was no actual third shooting at Rideau Centre.
+
+It's important to note that this classification is based solely on the provided evidence. Additional information or official statements from the police may be necessary to confirm the accuracy of the classification.
+PREDICTION > false (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as abductive reasoning. Abductive reasoning involves making an inference to the best explanation based on the available evidence. In this case, the evidence of the police initially reporting a third shooting but later retracting the statement is used to infer that the rumor is false. The reasoning involves considering the most plausible explanation for the given evidence.
+
+Q: As an expert journalist, classify the following rumour as true, false, or unknown using only the provided evidence. RUMOUR: French media report the Trocadero near the Eiffel Tower in Paris has been evacuated and police have been deployed there EVIDENCE: PARIS Reuters - The Eiffel Tower and the surrounding Champ de Mars park were briefly evacuated on Tuesday because of a bomb alert, the fourth in PARIS... A: let's think step by step.
+INPUT PROMPT > simple false
+Based on the evidence provided, the rumour that the Trocadero near the Eiffel Tower in Paris has been evacuated and police have been deployed there is unknown. The evidence states that the Eiffel Tower and the surrounding Champ de Mars park were briefly evacuated due to a bomb alert, but it does not specifically mention the Trocadero or police deployment there. Therefore, without further information, it is not possible to classify the rumour as true or false.
+PREDICTION > false (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as abductive reasoning. Abductive reasoning involves making an inference to the best explanation based on the available evidence. In this case, the evidence provided is used to make an inference about the truth or falsehood of the rumour.
+
+Q: As an expert journalist, classify the following rumour as true, false, or unknown using only the provided evidence. RUMOUR: St . Louis : Unarmed teenager MikeBrown was shot ten times by a Ferguson police officer for accusation of shoplifting EVIDENCE: The white officer, Thomas Jackson, the police chief in Ferguson, gave a series of incomplete accounts that sowed confusion about whether the officer who shot the teenager knew the officer who shot the teenager was a suspect in the robbery. A: let's think step by step.
+INPUT PROMPT > simple unverified
+As an AI language model, I can provide an analysis based on the evidence provided. However, it is important to note that I cannot independently verify the accuracy of the evidence or the rumor. Based on the evidence provided, it is unclear whether the rumor is true or false. The evidence suggests that the police chief, Thomas Jackson, gave incomplete accounts, which caused confusion about whether the officer who shot the teenager knew about the robbery. However, the evidence does not directly confirm or deny the specific details of the rumor, such as the number of shots fired or whether the teenager was unarmed. Therefore, the classification of the rumor as true, false, or unknown cannot be definitively determined based solely on the provided evidence.
+PREDICTION > unverified (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as abductive reasoning. Abductive reasoning involves making an inference to the best explanation based on the available evidence. In this case, the evidence provided is incomplete, and the reasoning is based on making the best inference given the available information.
+
+Q: As an expert journalist, classify the following rumour as true, false, or unknown using only the provided evidence. RUMOUR: Global News camera man reporting shots fired by Chateau Laurier hotel ottawa EVIDENCE: AN INVESTIGATION IS under way in Canada after one soldier was killed and shots were fired inside the national parliament building. A Canadian soldier standing guard at the National War Memorial in Ottawa has been shot by an unknown gunman and there are reports of gunfire inside the halls of a Parliament building in Ottawa. OTTAWA - The Ottawa Police Service Sexual Assault Child Abuse Unit is investigating the report of a suspicious incident that occurred on April 29, 2013 at 8: 40 a.m. A: let's think step by step.
+INPUT PROMPT > simple false
+As an expert journalist, based on the provided evidence, I would classify the rumor as true. The evidence states that a Canadian soldier was shot by an unknown gunman at the National War Memorial in Ottawa, and there are reports of gunfire inside the halls of a Parliament building in Ottawa. This aligns with the rumor of shots fired by the Chateau Laurier hotel. However, it is important to note that further investigation and confirmation from reliable sources would be necessary to fully verify the accuracy of the rumor.
+PREDICTION > unverified (wrong)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as abductive reasoning. Abductive reasoning involves making an inference to the best explanation based on the available evidence. In this case, the evidence of a soldier being shot and reports of gunfire inside the Parliament building are used to infer that the rumor of shots fired by the Chateau Laurier hotel is true.
+
+Q: As an expert journalist, classify the following rumour as true, false, or unknown using only the provided evidence. RUMOUR: Ottawa Police Service : There were ' numerous gunmen ' at the Canada War Memorial shooting . One person was shot . EVIDENCE: OTTAWA - Gunfire echoed through the Gothic halls of the Canadian parliament Wednesday as police swarmed in to tackle a gunman who had shot a soldier outside before storming the Canadian parliament. 151; -- A gunman fatally shot a Canadian soldier in an attack near the Parliament in what the prime minster called a ' terrorist ' act. A Canadian soldier was shot at the Canadian War Memorial and a shooter was seen running towards the nearby parliament buildings, where more shots were fired. A: let's think step by step.
+INPUT PROMPT > complex false
+Based on the evidence provided, it can be classified as true that there was a shooting at the Canada War Memorial and that one person, a Canadian soldier, was shot. It is also true that a shooter was seen running towards the nearby parliament buildings, where more shots were fired. However, the evidence does not provide information about the number of gunmen involved, so it is unknown whether there were "numerous gunmen" as stated in the rumor.
+PREDICTION > unverified (wrong)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as inductive reasoning. Inductive reasoning involves drawing general conclusions based on specific evidence or observations. In this case, the conclusion about the shooting and the number of gunmen is based on the specific evidence provided.
+
+Q: As an expert journalist, classify the following rumour as true, false, or unknown using only the provided evidence. RUMOUR: Sydney airspace wasn't closed . A second terror suspect wasn't arrested . Myths around sydneysiege debunked . EVIDENCE: The suspect, who first took the cafe during Monday morning rush hour, was identified by police as local Muslim cleric Man Haron Monis, who had taken to calling local Muslim cleric Man Haron Monis, who had taken to calling himself ' Sheikh Haron ' Sheikh Haron. ' Officials said local Muslim cleric Man Haron Monis, who had taken to calling himself ' Sheikh Haron died after being shot during the raid. An armed intruder, identified by police as Man Haron Monis, held an ' undisclosed number ' of hostages inside the cafe in central Sydney for 16 hours before police stormed the cafe in central Sydney at about 2: 10am AEDT on Tuesday. A: let's think step by step.
+INPUT PROMPT > complex false
+Based on the evidence provided, we can classify the following:
+
+1. Sydney airspace wasn't closed: Unknown. The evidence does not mention anything about the closure or non-closure of Sydney airspace.
+
+2. A second terror suspect wasn't arrested: Unknown. The evidence does not mention anything about the arrest or non-arrest of a second terror suspect.
+
+3. Myths around the Sydney siege debunked: Unknown. The evidence does not provide any information about debunking myths related to the Sydney siege.
+
+It is important to note that without further evidence or information, it is not possible to definitively classify these rumors as true, false, or unknown.
+PREDICTION > unverified (wrong)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as abductive reasoning. Abductive reasoning involves making an inference or conclusion based on the best available explanation or hypothesis given the evidence at hand. In this case, the evidence is analyzed to determine the classification of the rumor as true, false, or unknown.
+
+Q: As an expert journalist, classify the following rumour as true, false, or unknown using only the provided evidence. RUMOUR: The Sydney cafe siege may be part of a larger plot . @Y7News MartinPlaceSiege EVIDENCE: An armed gunman has taken an unknown number of hostages at a Sydney cafe in a siege which started on Monday morning. As the siege in Sydney enters the siege in Sydney's eleventh hour, at least five people have escaped from the cafe in the Australian capital where a gunman is holding an undisclosed number of people hostage. A: let's think step by step.
+INPUT PROMPT > complex unverified
+As an expert journalist, based on the provided evidence, it is not possible to classify the rumor as true, false, or unknown. The evidence only states that an armed gunman has taken an unknown number of hostages at a Sydney cafe, and that at least five people have escaped. There is no information provided that directly supports or refutes the claim that the siege may be part of a larger plot. Therefore, the classification of the rumor remains unknown based on the given evidence.
+PREDICTION > unverified (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as abductive reasoning. Abductive reasoning involves making an inference to the best explanation based on the available evidence. In this case, the journalist is examining the evidence provided and attempting to determine the most plausible explanation for the rumor.
+
+Q: As an expert journalist, classify the following rumour as true, false, or unknown using only the provided evidence. RUMOUR: CharlieHebdo Attack UPDATE : Cartoonists Cabu , Charb , Wolinski die - report EVIDENCE: The cartoonists known as Cabu, Tignous and Wolinski were also killed in the attack, AFP news agency quoted a judicial source as saying. A: let's think step by step.
+INPUT PROMPT > complex false
+As an expert journalist, based on the provided evidence, we can classify the rumor as true. The evidence states that the cartoonists known as Cabu, Tignous, and Wolinski were killed in the attack, as quoted by the AFP news agency from a judicial source.
+PREDICTION > true (wrong)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as deductive reasoning. Deductive reasoning is a logical process where specific conclusions are drawn from general principles or premises. In this case, the evidence provided directly supports the conclusion that the rumor is true.
+
+Q: As an expert journalist, classify the following rumour as true, false, or unknown using only the provided evidence. RUMOUR: Police say the shooter is on roof of building at Metcalfe and Sparks 1 block from Parliament Hill ottnews cbcott EVIDENCE: One gunman shot a soldier at Canada's National War Memorial before facing off with police in the parliament building. A Canadian soldier standing guard at the National War Memorial in Ottawa has been shot by an unknown gunman and there are reports of gunfire inside the halls of a Parliament building in Ottawa. OTTAWA The NHL postponed Wednesday night's game between the OTTAWA Senators and the Toronto Maple Leafs following the shootings on Parliament Hill and at the National War Memorial. A: let's think step by step.
+INPUT PROMPT > complex false
+As an expert journalist, based on the provided evidence, I would classify the rumor as unknown. The evidence states that one gunman shot a soldier at Canada's National War Memorial before facing off with police in the parliament building. There are reports of gunfire inside the halls of a Parliament building in Ottawa. However, there is no specific mention of the shooter being on the roof of a building at Metcalfe and Sparks, one block from Parliament Hill. Therefore, without further evidence or confirmation, it is not possible to classify the rumor as true or false.
+PREDICTION > false (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as abductive reasoning. Abductive reasoning involves making an inference to the best explanation based on the available evidence. In this case, the journalist is examining the evidence provided and trying to determine the most plausible explanation for the rumor.
+
+Q: As an expert journalist, classify the following rumour as true, false, or unknown using only the provided evidence. RUMOUR: SYDNEY SIEGE : Gunman forces hostages to hold up ISIS flag in window EVIDENCE: A gunman overran the Lindt Cafe in Sydney Sunday night and reportedly forced hostages to display a black flag with what appeared to be the shahada, the Muslim creed, in white. A: let's think step by step.
+INPUT PROMPT > complex false
+As an AI language model, I can provide an analysis based on the evidence provided. 
+
+Based on the evidence provided, it is true that a gunman overran the Lindt Cafe in Sydney and reportedly forced hostages to display a black flag with what appeared to be the shahada, the Muslim creed, in white. However, the evidence does not explicitly mention that the flag belonged to ISIS or that the gunman specifically demanded hostages to hold up an ISIS flag. Therefore, it is unknown whether the flag was specifically an ISIS flag or if the gunman had any direct affiliation with ISIS.
+PREDICTION > unverified (wrong)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as abductive reasoning. Abductive reasoning involves making an inference or forming a hypothesis based on the available evidence. In this case, the evidence provided is analyzed to determine the most plausible explanation for the situation described.
+
+Q: As an expert journalist, classify the following rumour as true, false, or unknown using only the provided evidence. RUMOUR: BREAKING : Two or three gunmen were involved in shooting at Canada war memorial , Ottawa police say . EVIDENCE: Canadian police were investigating a man named as Michael Zehaf-Bibeau as a possible suspect in the shootings, a source familiar with the matter said. A man fatally shot a soldier at Canada's National War Memorial before being killed inside Canada's's Parliament building, in a terror attack that shut down the capital city and stands to change the way Canada's protects Canada's. A Canadian soldier was shot at the Canadian War Memorial and a shooter was seen running towards the nearby parliament buildings, where more shots were fired. A: let's think step by step.
+INPUT PROMPT > complex unverified
+As an expert journalist, based on the provided evidence, the following classification can be made:
+
+The evidence states that a man named Michael Zehaf-Bibeau was being investigated as a possible suspect in the shootings. This suggests that there was at least one gunman involved in the shooting at the Canada war memorial.
+
+The evidence also mentions that a man fatally shot a soldier at Canada's National War Memorial before being killed inside Canada's Parliament building. This confirms the presence of a shooter and indicates that there was at least one gunman involved in the incident.
+
+Additionally, it is mentioned that a shooter was seen running towards the nearby parliament buildings, where more shots were fired. This further supports the presence of multiple gunmen involved in the shooting.
+
+Based on the evidence provided, it can be classified that the rumour of two or three gunmen being involved in the shooting at the Canada war memorial is true.
+PREDICTION > true (wrong)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as inductive reasoning. Inductive reasoning involves drawing general conclusions based on specific observations or evidence. In this case, the evidence provided (such as the investigation of Michael Zehaf-Bibeau, the presence of a shooter at the war memorial and parliament buildings, and the mention of more shots being fired) is used to make a general conclusion that there were two or three gunmen involved in the shooting.
+
+Q: As an expert journalist, classify the following rumour as true, false, or unknown using only the provided evidence. RUMOUR: BREAKING : Police source has told The Globe that a second shooter has been shot . OttawaShooting EVIDENCE: OTTAWA - Gunfire echoed through the Gothic halls of the Canadian parliament Wednesday as police swarmed in to tackle a gunman who had shot a soldier outside before storming the Canadian parliament. Gunman at Parliament's Centre Block has been shot and killed, Conservative MP Bernard Trottier tweeted at 10: 30 a.m. A: let's think step by step.
+INPUT PROMPT > complex false
+Based on the evidence provided, it is stated that a gunman had shot a soldier outside the Canadian parliament and then stormed inside. It is also mentioned that the gunman at Parliament's Centre Block has been shot and killed. However, there is no mention of a second shooter being shot. Therefore, based on the evidence provided, the rumour of a second shooter being shot is unknown.
+PREDICTION > unverified (wrong)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as deductive reasoning. Deductive reasoning is a logical process in which conclusions are drawn based on premises or evidence that is known or assumed to be true. In this case, the evidence provided is analyzed and a conclusion is drawn based on the absence of information regarding a second shooter being shot.
+
+Q: As an expert journalist, classify the following rumour as true, false, or unknown using only the provided evidence. RUMOUR:  No survivors ' in Germanwings crash says French transport minister adding it crashed after pilot issued distress signal in good weather EVIDENCE: The New York Times report has prompted widespread suggestions that the pilot inside the cockpit flew the plane into the ground deliberately. - After plunging for eight minutes, according to Germanwings, the plane crashes at 1500 metres 4900 feet altitude in a difficult mountainous terrain. A: let's think step by step.
+INPUT PROMPT > complex false
+Based on the evidence provided, it is difficult to classify the rumor as true, false, or unknown. The evidence suggests that there were no survivors in the Germanwings crash, as stated by the French transport minister. However, the evidence also mentions widespread suggestions that the pilot deliberately flew the plane into the ground, which implies that there may be some doubt or speculation surrounding the cause of the crash. Therefore, without further information, it is not possible to definitively classify the rumor as true, false, or unknown.
+PREDICTION > unverified (wrong)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as abductive reasoning. Abductive reasoning involves making an inference or forming a hypothesis based on the available evidence, even if it is not conclusive. In this case, the evidence provided is used to form a hypothesis about the classification of the rumor, but without definitive proof.
+
+Q: As an expert journalist, classify the following rumour as true, false, or unknown using only the provided evidence. RUMOUR: The Germanwings co-pilot was not a Muslim , so he could not have been a terrorist . He was depressed . EVIDENCE: The co-pilot of Germanwings Flight 4U 9525 appears to have deliberately crashed Germanwings Flight 4U 9525 into the French Alps after the pilot had left the cockpit, Marseille prosecutor Brice Robin said at a news conference Thursday. A: let's think step by step.
+INPUT PROMPT > complex false
+Based on the evidence provided, it is true that the co-pilot deliberately crashed the Germanwings Flight 4U 9525 into the French Alps. However, the evidence does not provide any information about the co-pilot's religious affiliation or mental state, so it is unknown whether he was a Muslim or depressed. Therefore, the classification of the rumor as true, false, or unknown cannot be determined based on the provided evidence.
+PREDICTION > unverified (wrong)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as deductive reasoning. Deductive reasoning is a logical process where specific conclusions are drawn from general principles or premises. In this case, the evidence provided is used to draw a specific conclusion about the deliberate actions of the co-pilot.
+
+Q: As an expert journalist, classify the following rumour as true, false, or unknown using only the provided evidence. RUMOUR: An ISIS ' lonewolf ' has taken around 30 people hostage in a Sydney and demanded to talk to the PM , according to Australian media reports . EVIDENCE: Around 15 people were taken hostage before five so far have been released A: let's think step by step.
+INPUT PROMPT > nt false
+As an AI language model, I can provide an analysis based on the evidence provided. However, please note that I am not an expert journalist, and it is always best to consult reliable news sources for accurate information.
+
+Based on the evidence provided, we can classify the rumor as "unknown" at this point. The evidence states that around 15 people were taken hostage, but it does not confirm whether the hostage-taker is an ISIS 'lonewolf' or if they demanded to talk to the Prime Minister. Additionally, it is unclear whether the remaining hostages have been released or not.
+
+To determine the accuracy of the rumor, it is important to consult reliable news sources for up-to-date information and confirmation.
+PREDICTION > unverified (wrong)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as abductive reasoning. Abductive reasoning involves making an inference or forming a hypothesis based on the available evidence. In this case, the evidence provided is used to make an educated guess about the truth of the rumor. The conclusion reached is not definitive but is based on the most plausible explanation given the information provided.
+
+Q: As an expert journalist, classify the following rumour as true, false, or unknown using only the provided evidence. RUMOUR: 142 PEOPLE ON BOARD GERMANWINGS AIRBUS A320 THAT CRASHED IN SOUTHERN FRANCE EVIDENCE: More from NBC News: Germanwings Airbus A320 Crashes in France, 150 Feared Dead Germanwings Airbus A320 Crash: What Might Have Happened to Germanwings Airbus A320 ? President Hollande: A New Aviation Tragedy A: let's think step by step.
+INPUT PROMPT > nt false
+As an expert journalist, based on the evidence provided, we can classify the rumor as "unknown." The evidence states that a Germanwings Airbus A320 crashed in France and that 150 people are feared dead. However, it does not provide any concrete information about the number of people on board the aircraft. Therefore, without further evidence, we cannot determine the accuracy of the rumor.
+PREDICTION > unverified (wrong)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as abductive reasoning. Abductive reasoning involves making an inference to the best explanation based on the available evidence. In this case, the journalist is examining the evidence provided and drawing a conclusion based on the information at hand.
+
+Q: As an expert journalist, classify the following rumour as true, false, or unknown using only the provided evidence. RUMOUR: Police in Ottawa are searching for suspected gunmen who shot a solider and fired shots in Parliament this morning . EVIDENCE: Police were searching for gunmen after a soldier was shot at the war memorial and shots were fired inside Canada's legislative building. A: let's think step by step.
+INPUT PROMPT > nt unverified
+As an AI language model, I can provide an analysis based on the evidence provided. 
+
+Based on the evidence provided, it can be classified as true that police in Ottawa were searching for suspected gunmen. The evidence states that a soldier was shot at the war memorial and shots were fired inside Canada's legislative building. This suggests that there was an incident involving gunmen, and the police were actively searching for them.
+PREDICTION > true (wrong)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as inductive reasoning. Inductive reasoning involves drawing general conclusions based on specific observations or evidence. In this case, the conclusion that the police in Ottawa were searching for suspected gunmen is based on the specific evidence provided, which includes the shooting of a soldier and shots fired inside Canada's legislative building.
+
+Q: As an expert journalist, classify the following rumour as true, false, or unknown using only the provided evidence. RUMOUR: BREAKING NEWS : A SIXTH HOSTAGE HAS NOW ESCAPED FROM THE CAFE IN SYDNEY . EVIDENCE: SYDNEY Five people escaped from a SYDNEY cafe where a gunman took an unknown number of hostages during Monday morning rush hour. A: let's think step by step.
+INPUT PROMPT > nt false
+As an expert journalist, based on the provided evidence, we can classify the rumor as unknown. The evidence states that five people escaped from the cafe, but it does not mention a sixth hostage escaping. Therefore, without further information, we cannot confirm or deny the existence of a sixth hostage escaping.
+PREDICTION > unverified (wrong)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as deductive reasoning. Deductive reasoning is a logical process where specific conclusions are drawn from general principles or premises. In this case, the evidence provided is used to draw a conclusion about the truth or falsity of the rumor.
+
+Q: As an expert journalist, classify the following rumour as true, false, or unknown using only the provided evidence. RUMOUR: CHARLIEHEBDO Shooting Wrap-up : 12 dead , 3 gunmen at large , Paris on high terrorist alert EVIDENCE: Minutes later, the attackers would burst into the Charlie Hebdo office and shoot dead 10 of those in the Charlie Hebdo office. A: let's think step by step.
+INPUT PROMPT > nt false
+As an AI language model, I can help analyze the evidence provided to classify the rumor as true, false, or unknown. Based on the evidence provided, it states that the attackers burst into the Charlie Hebdo office and shot dead 10 people. However, the rumor states that 12 people were killed, which contradicts the evidence. Therefore, based on the provided evidence, the rumor is false.
+PREDICTION > false (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as deductive reasoning. Deductive reasoning is a logical process in which conclusions are drawn based on premises or evidence that is known or assumed to be true. In this case, the conclusion that the rumor is false is reached by comparing the evidence provided with the claim made in the rumor.
+
+Q: As an expert journalist, classify the following rumour as true, false, or unknown using only the provided evidence. RUMOUR: The first person killed in Charlie Hebdo attacks was Muslim police officer EVIDENCE: The officer, Ahmed Merabet, was the second police officer to be killed that day; another officer assigned to protect Charlie Hebdo's editorial director was also killed. PARIS The French police officer whose point-blank murder by suspected Islamist extremists on a Paris street was caught on video was a Muslim, according to a colleague. A: let's think step by step.
+INPUT PROMPT > nt false
+Based on the evidence provided, it can be classified as true that the first person killed in the Charlie Hebdo attacks was a Muslim police officer. The evidence states that the officer, Ahmed Merabet, was the second police officer to be killed that day, indicating that there was another officer killed before him. Additionally, a colleague confirmed that Ahmed Merabet was a Muslim. Therefore, the rumour is true.
+PREDICTION > true (wrong)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as deductive reasoning. Deductive reasoning is a logical process in which specific conclusions are drawn from general principles or premises. In this case, the evidence provided (the officer being the second to be killed and confirmation from a colleague) leads to the specific conclusion that the rumour is true.
+
+Q: As an expert journalist, classify the following rumour as true, false, or unknown using only the provided evidence. RUMOUR: MORE Airbus A320 that crashed in southern France operated by Germanwings , carrying 142 passengers , 2 pilots , 4 crew EVIDENCE: An Airbus A320 with 142 passengers and 8 crewmembers today crashed in Digne region, southern France. A: let's think step by step.
+INPUT PROMPT > nt false
+As an expert journalist, based on the provided evidence, we can classify the rumor as true. The evidence states that an Airbus A320 with 142 passengers and 8 crew members crashed in the Digne region of southern France. This aligns with the information in the rumor, which mentions an Airbus A320 operated by Germanwings, carrying 142 passengers, 2 pilots, and 4 crew members. Therefore, the evidence supports the rumor, indicating that it is true.
+PREDICTION > true (wrong)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as deductive reasoning. Deductive reasoning is a logical process where specific conclusions are drawn from general principles or premises. In this case, the evidence provided directly supports the information in the rumor, leading to the conclusion that the rumor is true.
+
+Q: As an expert journalist, classify the following rumour as true, false, or unknown using only the provided evidence. RUMOUR: Approximately 50 hostages may be held captive at Lindt cafe - local reports sydneysiege EVIDENCE: The self-styled Islamic preacher who held at least 17 people hostage in a Lindt Cafe on Sydney's Martin Place today is dead, as well as two of at least 17 people, police have confirmed. A: let's think step by step.
+INPUT PROMPT > nt false
+As an AI language model, I can provide an analysis based on the evidence provided. 
+
+Based on the evidence, it is confirmed that a self-styled Islamic preacher held at least 17 people hostage in a Lindt Cafe in Sydney. It is also confirmed that the perpetrator is dead, along with two of the hostages. 
+
+However, the evidence does not provide any information regarding the total number of hostages held captive. Therefore, it is unknown whether approximately 50 hostages were held captive at the Lindt Cafe.
+PREDICTION > unverified (wrong)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as deductive reasoning. Deductive reasoning is a logical process in which specific conclusions are drawn from general principles or premises. In this case, the evidence provided is used to draw a specific conclusion about the number of hostages held captive at the Lindt Cafe.
+
+Q: As an expert journalist, classify the following rumour as true, false, or unknown using only the provided evidence. RUMOUR: Sydney cafe siege : Two gunmen and up to a dozen hostages inside the cafe under siege in Martin Place , Sydney . ISIS flags remain in display . EVIDENCE: Three people are dead after police stormed the Lindt chocolate cafe in Sydney's Martin Place, where Man Haron Monis allegedly held 17 hostages for hours. A: let's think step by step.
+INPUT PROMPT > nt false
+As an AI language model, I can provide an analysis based on the evidence provided. 
+
+Based on the evidence provided, it is confirmed that there was a siege at the Lindt chocolate cafe in Sydney's Martin Place. The evidence states that Man Haron Monis allegedly held 17 hostages for hours. It is also mentioned that three people died after police stormed the cafe. However, there is no mention of two gunmen or the presence of ISIS flags in the evidence provided.
+
+Therefore, based on the evidence, we can classify the following aspects of the rumor:
+
+- Two gunmen: Unknown. The evidence does not mention the presence of two gunmen.
+- Up to a dozen hostages: Unknown. The evidence only mentions 17 hostages.
+- ISIS flags remain on display: False. The evidence does not mention the presence of ISIS flags.
+
+It is important to note that this analysis is based solely on the provided evidence, and additional information may be required to make a definitive classification.
+PREDICTION > false (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as deductive reasoning. Deductive reasoning is a logical process in which specific conclusions are drawn from general principles or premises. In this case, the evidence provided is used to draw specific conclusions about the rumor, based on the absence or presence of certain information.
+
+Q: As an expert journalist, classify the following rumour as true, false, or unknown using only the provided evidence. RUMOUR: Mike Brown was staying with his grandmother for the summer , who lived in the community . Ferguson EVIDENCE: Ferguson, Missouri Police Chief Thomas Jackson named the officer who shot and killed Michael Brown in Ferguson, Missouri Missouri Saturday, August 9, 2014 is Darren Wilson. Jackson first indicated that the officer stopped Brown in response to a callout over police radio describing Brown for the robbery. A: let's think step by step.
+INPUT PROMPT > simple unverified
+Based on the evidence provided, it is not possible to classify the rumor as true, false, or unknown. The evidence only provides information about the police chief naming the officer involved in the shooting and the circumstances leading up to the incident. It does not provide any information about Mike Brown staying with his grandmother or living in the community. Therefore, the classification of the rumor remains unknown based on the given evidence.
+PREDICTION > unverified (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as abductive reasoning. Abductive reasoning involves making an inference to the best explanation based on the available evidence. In this case, the evidence provided is used to determine the classification of the rumor as true, false, or unknown.
+
+Q: As an expert journalist, classify the following rumour as true, false, or unknown using only the provided evidence. RUMOUR: SYDNEYSIEGE : Hostage-takers have suicide belts , demand radio convo with Abbott ' - report EVIDENCE: The captor and two hostages died during the confrontation and four other people were wounded, the New South Wales Police said Tuesday morning. Gunman Man Haron Monis, 50, was killed during a confrontation with police in the cafe, He told reporters. -- By early evening, after initial reports that only a few people were hurt, police said 12 people, plus the gunman, were killed in a shooting rampage. A: let's think step by step.
+INPUT PROMPT > simple unverified
+Based on the evidence provided, it is unknown whether the rumour about the hostage-takers having suicide belts and demanding a radio conversation with Abbott is true or false. The evidence only mentions the death of the captor and two hostages, along with four other people being wounded. It does not provide any information about suicide belts or demands for a radio conversation.
+PREDICTION > false (wrong)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as abductive reasoning. Abductive reasoning involves making an inference or hypothesis based on the available evidence, even if it is not conclusive. In this case, the evidence provided does not directly confirm or refute the rumour, so the conclusion of "unknown" is reached based on the available information.
+
+Q: As an expert journalist, classify the following rumour as true, false, or unknown using only the provided evidence. RUMOUR: A bomb detection robot has entered the MartinPl cafe . SydneySiege 9News EVIDENCE: The self-styled Islamic preacher who held at least 17 people hostage in a Lindt Cafe on Sydney's Martin Place today is dead, as well as two of at least 17 people, police have confirmed. A: let's think step by step.
+INPUT PROMPT > simple unverified
+As an AI language model, I can provide some analysis based on the evidence provided. However, please note that the information may be outdated or incomplete, so it's always best to refer to reliable news sources for the most up-to-date information.
+
+Based on the evidence provided, which states that a self-styled Islamic preacher held at least 17 people hostage in a Lindt Cafe on Sydney's Martin Place and that the individual is confirmed dead, there is no direct evidence or mention of a bomb detection robot entering the cafe. Therefore, the classification of the rumor as true, false, or unknown cannot be determined solely based on the provided evidence.
+
+To verify the rumor, it would be necessary to consult additional sources or news reports that specifically mention the presence of a bomb detection robot at the Martin Place cafe during the Sydney Siege.
+PREDICTION > unverified (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as deductive reasoning. Deductive reasoning is a logical process in which specific conclusions are drawn from general principles or premises. In this case, the evidence provided is used to draw a conclusion about the classification of the rumor as true, false, or unknown. The reasoning follows a logical sequence, starting with the evidence and applying logical analysis to reach a conclusion.
+
+Q: As an expert journalist, classify the following rumour as true, false, or unknown using only the provided evidence. RUMOUR: The ferguson chief says that his feelings are hurt that ppl consider him a part of the problem . ferguson EVIDENCE: Police ID the officer who fired fatal shot as Darren Wilson; chiefs calls the officer who fired fatal shot ' gentleman ' An officer shot a man who reportedly pointed a handgun at An officer as demonstrations continued in the wake of Michael Brown's fatal shooting in a St. Louis suburb. Police in Ferguson, Missouri, once charged a man with destruction of property for bleeding on Police in Ferguson, Missouri's uniforms while four of Police in Ferguson, Missouri allegedly beat a man. A: let's think step by step.
+INPUT PROMPT > simple unverified
+Based on the evidence provided, we can classify the rumor as true. The evidence states that the police chief referred to the officer who fired the fatal shot as a "gentleman." This suggests that the chief does not consider the officer to be a part of the problem and may be hurt by people's perception of him.
+PREDICTION > true (wrong)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as inductive reasoning. Inductive reasoning involves drawing general conclusions based on specific evidence or observations. In this case, the conclusion that the rumor is true is based on the specific evidence provided, which suggests that the police chief does not consider the officer to be a part of the problem.
+
+Q: As an expert journalist, classify the following rumour as true, false, or unknown using only the provided evidence. RUMOUR: Lets bomb nurseries w White Babies ! ? FBI : NBP leader inciting violence in Ferguson tcot EVIDENCE: President Barack Obama has condemned the violence in Ferguson, Missouri, criticizing the use of excessive force by police trying to temper riots that have rocked Ferguson, Missouri for days. A: let's think step by step.
+INPUT PROMPT > simple unverified
+As an AI language model, I can provide an analysis based on the evidence provided. However, it is important to note that the evidence does not directly address the specific rumor mentioned. 
+
+The evidence states that President Barack Obama condemned the violence in Ferguson, Missouri, criticizing the use of excessive force by police. This information does not provide any direct evidence or information about the rumor regarding bombing nurseries with white babies or the involvement of the NBP leader.
+
+Therefore, based on the evidence provided, it is unknown whether the rumor is true, false, or unknown. Additional evidence or information would be required to make a more accurate classification.
+PREDICTION > unverified (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as abductive reasoning. Abductive reasoning involves making an inference or forming a hypothesis based on the available evidence, even if it does not provide a definitive answer. In this case, the evidence provided does not directly address the rumor, but an inference is made based on the lack of direct evidence.
+
+Q: As an expert journalist, classify the following rumour as true, false, or unknown using only the provided evidence. RUMOUR: Good news is Canadian gov't successfully prevented Zehaf-Bebeau from joining ISIS abroad . Bad news is he waged jihad in Ottawa today . EVIDENCE:  We are shocked and deeply saddened by today's tragic events on Parliament Hill and in downtown Ottawa, ' We said in the statement. It is perhaps absurd after years of war abroad and threats of reprisals at home that events in Ottawa struck with such shock and bewilderment, but imagery of Wednesday's armed assault on Parliament Hill was vivid and horrifying: a soldier shot dead while doing honorable duty at the graceful National War Memorial; Cabinet members barricading their wood-paneled caucus door with plush, green upholstered chairs; fretful tourists cowering beside the landmark Peace Tower; and officers stalking the marble halls of Parliament with guns drawn, releasing a fearsome fusillade at an armed attacker. A: let's think step by step.
+INPUT PROMPT > simple unverified
+As an AI language model, I can provide an analysis based on the evidence provided. However, it is important to note that I cannot independently verify the information or provide a definitive classification without additional evidence. 
+
+Based on the evidence provided, it is unclear whether the rumor is true, false, or unknown. The evidence describes the tragic events that occurred on Parliament Hill and in downtown Ottawa, but it does not specifically mention the individual named in the rumor, Zehaf-Bebeau, or his alleged involvement with ISIS. Therefore, without further information, it is not possible to classify the rumor as true, false, or unknown based solely on the provided evidence.
+PREDICTION > unverified (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as abductive reasoning. Abductive reasoning involves making an inference to the best explanation based on the available evidence. In this case, the evidence provided is analyzed to determine the most plausible explanation for the rumor.
+
+Q: As an expert journalist, classify the following rumour as true, false, or unknown using only the provided evidence. RUMOUR: Possible ' robbery ' took place and BAM ! Like magic it's as if another UNARMED black youth being murdered has been forgotten smh Ferguson EVIDENCE: Another thing worth noting is that the threshold for being offended is a very important tool for judging and ranking white people. A: let's think step by step.
+INPUT PROMPT > simple unverified
+As an AI language model, I can provide some guidance on how to approach classifying the rumor based on the evidence provided. However, it's important to note that the evidence you provided does not directly support or refute the rumor. The evidence seems to discuss the threshold for being offended and judging/ranking white people, which is unrelated to the rumor itself.
+
+To classify the rumor as true, false, or unknown, you would need evidence specifically related to the alleged robbery and the claim that another unarmed black youth being murdered has been forgotten in Ferguson. Without such evidence, it is not possible to determine the truthfulness of the rumor based on the information provided.
+PREDICTION > unverified (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning does not fit neatly into any of the traditional forms of reasoning (deductive, inductive, abductive, or analogical). It appears to be more of a general analysis or evaluation of the evidence provided, rather than a specific form of reasoning. The reasoning process involves considering the evidence and its relevance to the rumor, but it does not follow a strict deductive, inductive, abductive, or analogical structure.
+
+Q: As an expert journalist, classify the following rumour as true, false, or unknown using only the provided evidence. RUMOUR: NEW DEVELOPMENT : Pentagon supplied St . Louis County police with military-grade weapons . Ferguson EVIDENCE: a policeman in Ferguson, a policeman in Ferguson said of a policeman in Ferguson Wednesday, has more personal body armor and weaponry than a policeman in Ferguson did while invading Iraq. A: let's think step by step.
+INPUT PROMPT > simple unverified
+Based on the evidence provided, it is difficult to classify the rumor as true, false, or unknown. The evidence only mentions that a policeman in Ferguson has more personal body armor and weaponry than a policeman in Ferguson did while invading Iraq. This evidence does not directly confirm or deny whether the Pentagon supplied St. Louis County police with military-grade weapons. Therefore, the classification of the rumor remains unknown based on the given evidence.
+PREDICTION > unverified (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as abductive reasoning. Abductive reasoning involves making an inference to the best explanation based on the available evidence. In this case, the evidence provided is used to make an inference about the truth or falsehood of the rumor.
+
+Q: As an expert journalist, classify the following rumour as true, false, or unknown using only the provided evidence. RUMOUR: France's most talented cartoonists : Cabu , Wolinski , Charb , Tignous died in CharlieHebdo attack EVIDENCE: According to Charlie Hebdo's lawyer, four cartoonists were killed by the masked gunmen: Cabu, Wolinski, Tignous and Charb, the pen name of Stephane Charbonnier, also the chief editor at Charlie Hebdo's. Stephane Charbonnier, the editorial director of French satirical magazine Charlie Hebdo, was killed along with 11 others in a horrifying attack in Paris on Wednesday. A: let's think step by step.
+INPUT PROMPT > simple unverified
+Based on the evidence provided, it can be classified as true that Cabu, Wolinski, Charb, and Tignous, who were talented cartoonists, died in the Charlie Hebdo attack. The evidence mentions that the four cartoonists were killed by the masked gunmen, and it specifically names them as Cabu, Wolinski, Tignous, and Charb (Stephane Charbonnier). Additionally, it states that Stephane Charbonnier, who was the chief editor at Charlie Hebdo, was killed in the attack. Therefore, based on the evidence, the rumour can be classified as true.
+PREDICTION > true (wrong)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as deductive reasoning. Deductive reasoning is a logical process in which specific conclusions are drawn from general principles or premises. In this case, the evidence provided directly supports the conclusion that the rumour is true.
+
+Q: As an expert journalist, classify the following rumour as true, false, or unknown using only the provided evidence. RUMOUR: BREAKING : Gunfire reported in French town as police hunt suspects in CharlieHebdo attack More soon at : EVIDENCE: The authorities had been hunting three suspects in the attack; three suspects were reportedly identified by police late Wednesday, and multiple French media outlets, citing a police bulletin, say three suspects are three suspects. A: let's think step by step.
+INPUT PROMPT > simple unverified
+Based on the evidence provided, it can be classified as unknown. The evidence mentions that the authorities were hunting three suspects in the Charlie Hebdo attack and that three suspects were reportedly identified by the police. However, there is no direct mention of gunfire being reported in a French town. Therefore, without further information, it is not possible to determine the truthfulness of the rumor.
+PREDICTION > unverified (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as abductive reasoning. Abductive reasoning involves making an inference or hypothesis based on the available evidence, even if it is not conclusive. In this case, the evidence provided is used to make an educated guess about the truthfulness of the rumor.
+
+Q: As an expert journalist, classify the following rumour as true, false, or unknown using only the provided evidence. RUMOUR: Reports that the Jewish community in France going in to lockdown . Shops , synagogues , schools etc . ParisShooting CharlieHebdo EVIDENCE: The two brothers suspected of the Charlie Hebdo terror attacks are killed, after being surrounded by police at an industrial estate in north east of Paris, according to reports in France. A: let's think step by step.
+INPUT PROMPT > complex unverified
+As an expert journalist, based on the provided evidence, it is not possible to classify the rumor as true, false, or unknown. The evidence only mentions the two brothers suspected of the Charlie Hebdo terror attacks being killed, but it does not provide any information about the Jewish community in France going into lockdown or the closure of shops, synagogues, schools, etc. Therefore, without further evidence, it is not possible to determine the veracity of the rumor.
+PREDICTION > unverified (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as deductive reasoning. Deductive reasoning is a logical process in which specific conclusions are drawn from general principles or premises. In this case, the journalist is examining the evidence provided and drawing a conclusion based on the absence of information related to the rumor.
+
+Q: As an expert journalist, classify the following rumour as true, false, or unknown using only the provided evidence. RUMOUR: Interesting that MouradHamydInnocent is trending , started by classmates who say suspect Mourad was in class at time of CharlieHebdo attack EVIDENCE: Two armed suspects wanted over the Charlie Hebdo killings were last night being pursued through woodland as a huge manhunt closed in on a forest. A: let's think step by step.
+INPUT PROMPT > complex unverified
+As an AI language model, I can provide you with some guidance on how to approach classifying the rumor based on the provided evidence. However, please note that I am not an expert journalist, and it is always best to consult multiple sources and experts for accurate information.
+
+1. Identify the rumor: The rumor states that MouradHamydInnocent is trending, started by classmates who claim that Mourad was in class at the time of the Charlie Hebdo attack.
+
+2. Examine the evidence: The evidence provided mentions two armed suspects being pursued through woodland as part of a manhunt for the Charlie Hebdo killings. It does not directly address the claim about Mourad's alibi.
+
+3. Evaluate the evidence: The evidence does not provide any information that confirms or refutes the rumor. It only focuses on the manhunt for the Charlie Hebdo suspects.
+
+4. Classify the rumor: Based solely on the provided evidence, the classification of the rumor as true, false, or unknown cannot be determined. The evidence does not provide any direct information about Mourad's alibi or the accuracy of the classmates' claim.
+
+To make a more accurate classification, it would be necessary to gather additional evidence or consult reliable sources that specifically address Mourad's alibi during the Charlie Hebdo attack.
+PREDICTION > unverified (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as abductive reasoning. Abductive reasoning involves making an inference to the best explanation based on the available evidence. In this case, the evidence provided does not directly confirm or refute the rumor, so the reasoning involves evaluating the evidence and making the best inference based on the information at hand.
+
+Q: As an expert journalist, classify the following rumour as true, false, or unknown using only the provided evidence. RUMOUR: 17 year old unarmed kid shot ten times by police for stealing candy . I didn't know that was punishable by death . read the ferguson tag EVIDENCE: Local police claim 18-year-old Michael Brown, who was unarmed when he was shot by a police officer may have reached for a police officer's weapon. Two years after the Michael Brown shooting, take a look back at the fury and frustration caused by Michael Brown's death and the change the Michael Brown shooting created. A: let's think step by step.
+INPUT PROMPT > complex unverified
+Based on the evidence provided, it is not possible to classify the rumor as true, false, or unknown. The evidence mentions the shooting of an unarmed 18-year-old named Michael Brown, but it does not provide any information specifically about a 17-year-old being shot ten times for stealing candy. Therefore, the rumor remains unverified based on the given evidence.
+PREDICTION > unverified (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as abductive reasoning. Abductive reasoning involves making an inference to the best explanation based on the available evidence. In this case, the evidence provided is insufficient to determine the truth or falsehood of the rumor, so the reasoning is based on the best possible explanation given the limited information.
+
+Q: As an expert journalist, classify the following rumour as true, false, or unknown using only the provided evidence. RUMOUR: All weekend ppl will be talking about the ' robbery ' instead of the shooting bc Ferguson PD didn't release any info about the shooting . EVIDENCE: The release of the officer's name has been a core demand of protesters in Ferguson since Brown was killed on Saturday, August 9. A: let's think step by step.
+INPUT PROMPT > complex unverified
+As an AI language model, I can provide an analysis based on the evidence provided. However, it is important to note that I cannot provide real-time information or access to current events. Based on the evidence provided, it is unknown whether the rumor is true or false. The evidence suggests that the release of the officer's name has been a demand of protesters in Ferguson, but it does not provide any information about the release of information regarding the shooting or a potential robbery. Therefore, without further evidence, it is not possible to classify the rumor as true, false, or unknown.
+PREDICTION > unverified (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as abductive reasoning. Abductive reasoning involves making an inference or forming a hypothesis based on the available evidence, even if it does not provide a definitive answer. In this case, the evidence is analyzed to determine the likelihood of the rumor being true, false, or unknown.
+
+Q: As an expert journalist, classify the following rumour as true, false, or unknown using only the provided evidence. RUMOUR: So , to sum up : 1 Darren Wilson KNEW NOTHING of the robbery , 2 shot MikeBrown over jaywalking , and 3 was allowed to escape Ferguson . EVIDENCE: Ferguson, Missouri Police Chief Thomas Jackson named the officer who shot and killed Michael Brown in Ferguson, Missouri Missouri Saturday, August 9, 2014 is Darren Wilson. - The officer encounters Michael Brown and a friend as Michael Brown and a friend walk down a street. Michael Brown, an unarmed black teenager, was shot dead on August 9 by Darren Wilson, a white police officer. A: let's think step by step.
+INPUT PROMPT > complex unverified
+Based on the provided evidence, we can classify the following:
+
+1. Darren Wilson knew nothing of the robbery: Unknown. The evidence does not provide any information about whether Darren Wilson knew about the robbery or not.
+
+2. Darren Wilson shot Mike Brown over jaywalking: False. The evidence does not mention anything about jaywalking being the reason for the shooting. It only states that Michael Brown was shot by Darren Wilson.
+
+3. Darren Wilson was allowed to escape Ferguson: False. The evidence does not mention anything about Darren Wilson escaping Ferguson. It only states that he was the officer who shot and killed Michael Brown.
+
+Therefore, based on the evidence, the rumour can be classified as follows:
+
+1. Unknown
+2. False
+3. False
+PREDICTION > false (wrong)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as deductive reasoning. Deductive reasoning is a logical process in which conclusions are drawn based on premises or evidence that is known or assumed to be true. In this case, the conclusions are made based on the evidence provided, and the reasoning follows a logical deduction from that evidence.
+
+Q: As an expert journalist, classify the following rumour as true, false, or unknown using only the provided evidence. RUMOUR: US evacuated Consulate in Sydney after sydneysiege . Emergency warning to U.S . citizens urging them to ' maintain high level of vigilance ' . EVIDENCE: hostages at the Lindt Chocolate cafe in Martin Place, a major shopping and pedestrian thoroughfare near the Sydney Opera House in the central business district of the city. The Sydney Opera House was also evacuated in reponse to the situation unfolding on Martin Place. A: let's think step by step.
+INPUT PROMPT > complex unverified
+As an AI language model, I can provide an analysis based on the evidence provided. However, please note that I am not an expert journalist, and my analysis should be taken as a suggestion rather than a definitive answer.
+
+Based on the evidence provided, it is clear that there was a hostage situation at the Lindt Chocolate cafe in Martin Place, Sydney. The Sydney Opera House was also evacuated in response to the unfolding situation. However, there is no direct evidence or mention of the US Consulate in Sydney being evacuated or an emergency warning specifically issued to US citizens.
+
+Therefore, based on the provided evidence, it is unknown whether the US Consulate in Sydney was evacuated or if there was an emergency warning specifically for US citizens.
+PREDICTION > unverified (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as abductive reasoning. Abductive reasoning involves making an inference or forming a hypothesis based on the available evidence. In this case, the evidence provided is analyzed to determine the likelihood of the US Consulate in Sydney being evacuated or an emergency warning being issued to US citizens. The conclusion reached is based on the best explanation or hypothesis that fits the evidence, rather than being a definitive deduction or induction.
+
+Q: As an expert journalist, classify the following rumour as true, false, or unknown using only the provided evidence. RUMOUR: ISIS just claimed responsibility for CharlieHebdo attack and announced more attacks . ' US and UK are on the list for tomorrow. ' EVIDENCE: 151; -- An al Qaeda affiliate has claimed responsibility for the deadly attack on a French satirical magazine that killed 12 people, claiming 12 people were in response to ' blasphemy. ' A: let's think step by step.
+INPUT PROMPT > complex unverified
+Based on the provided evidence, the rumour that ISIS claimed responsibility for the Charlie Hebdo attack and announced more attacks, specifically targeting the US and UK, is false. The evidence states that an al Qaeda affiliate claimed responsibility for the attack, not ISIS. There is no mention of any announcement of future attacks or specific targets. Therefore, based on the evidence, the rumour is false.
+PREDICTION > false (wrong)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as deductive reasoning. Deductive reasoning is a logical process in which conclusions are drawn based on premises or evidence that is known or assumed to be true. In this case, the evidence provided clearly states that an al Qaeda affiliate claimed responsibility for the attack, not ISIS. Therefore, the conclusion that the rumour is false is derived directly from the evidence.
+
+Q: As an expert journalist, classify the following rumour as true, false, or unknown using only the provided evidence. RUMOUR: I'm NOT believing this story because I know how the police lie and will keep lying and will organize together AND LIE . MIKEBROWN Ferguson EVIDENCE: Residents in Ferguson, and Brown's family, have accused the police of deliberately timing the release of surveillance video of the alleged robbery to shift the blame to Brown's, and the latest revelations are unlikely to quiet that suspicion. A: let's think step by step.
+INPUT PROMPT > complex unverified
+As an AI language model, I can provide an analysis based on the evidence provided. However, it is important to note that I cannot classify the rumor as true, false, or unknown without additional information or evidence. 
+
+The evidence provided states that residents in Ferguson and Brown's family have accused the police of deliberately timing the release of surveillance video to shift blame onto Brown. This suggests that there is suspicion and distrust towards the police in this case. However, this evidence alone does not confirm or refute the rumor that the police lie, organize together, and will continue to lie.
+
+To determine the truthfulness of the rumor, it would be necessary to gather more evidence, such as specific instances of police lying or organizing together, or testimonies from reliable sources. Without such evidence, it is not possible to definitively classify the rumor as true, false, or unknown.
+PREDICTION > unverified (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as inductive reasoning. Inductive reasoning involves drawing general conclusions based on specific evidence or observations. In this case, the evidence provided (accusations of deliberate timing of video release and suspicion towards the police) is used to suggest that the rumor may have some validity. However, it is important to note that inductive reasoning does not provide absolute certainty, as the conclusion is based on probability rather than logical necessity.
+
+Q: As an expert journalist, classify the following rumour as true, false, or unknown using only the provided evidence. RUMOUR: BREAKING : Paris prosecutor : Gunman with hostages in kosher market in eastern Paris ; police SWAT on scene .  EVIDENCE: French police said Friday that a gunman who had been holding people hostage in a kosher market in eastern Paris was dead, CBS News correspondent Elizabeth Palmer reports from Paris. A: let's think step by step.
+INPUT PROMPT > complex unverified
+Based on the evidence provided, the rumour can be classified as true. The evidence states that a gunman who had been holding people hostage in a kosher market in eastern Paris was confirmed dead by French police.
+PREDICTION > true (wrong)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as deductive reasoning. Deductive reasoning is a logical process where specific conclusions are drawn from general principles or premises. In this case, the evidence provided directly supports the conclusion that the rumour is true.
+
+Q: As an expert journalist, classify the following rumour as true, false, or unknown using only the provided evidence. RUMOUR: Police seen in Longpont , a village near to a petrol station reportedly robbed by the two CharlieHebdo suspects . EVIDENCE: The suspicion arose early Friday after police identified a suspect in the killing of the policewoman and had taken two people in his immediate circle into custody, according to a source close to the investigation. A: let's think step by step.
+INPUT PROMPT > complex unverified
+Based on the evidence provided, it is not possible to classify the rumor as true, false, or unknown. The evidence only mentions that police identified a suspect in the killing of a policewoman and took two people in his immediate circle into custody. There is no direct mention of a robbery at a petrol station or any connection to the Charlie Hebdo suspects. Therefore, the classification of the rumor remains unknown based on the given evidence.
+PREDICTION > unverified (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as abductive reasoning. Abductive reasoning involves making an inference to the best explanation based on the available evidence. In this case, the evidence provided is used to make an inference about the truth or falsehood of the rumor.
+
+Q: As an expert journalist, classify the following rumour as true, false, or unknown using only the provided evidence. RUMOUR: Witnesses say as many as 50 shots fired at Parliament Hill . Gunfire reported within the Parliament building . ottawa  EVIDENCE: Witnesses in the Canadian capital, Ottawa, say the gunman then ran into the main Parliament building, where dozens of shots were fired. The gunman reportedly ran towards Parliament Hill, which is currently under lockdown and surrounded by security. A: let's think step by step.
+INPUT PROMPT > nt unverified
+As an AI language model, I can provide an analysis based on the evidence provided. 
+
+Based on the evidence, it is reported that witnesses in Ottawa say the gunman ran into the main Parliament building, where dozens of shots were fired. Additionally, it is mentioned that the Parliament Hill is currently under lockdown and surrounded by security. 
+
+Given this information, it is reasonable to classify the rumour as true or at least partially true. The evidence suggests that shots were indeed fired within the Parliament building, and the area is currently under lockdown. However, without further information, it is difficult to determine the exact number of shots fired (as many as 50) or the full extent of the situation.
+PREDICTION > true (wrong)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as inductive reasoning. Inductive reasoning involves drawing general conclusions based on specific observations or evidence. In this case, the evidence provided (witnesses reporting shots fired and the Parliament Hill being under lockdown) is used to make a general conclusion that the rumour is true or partially true.
+
+Q: As an expert journalist, classify the following rumour as true, false, or unknown using only the provided evidence. RUMOUR: BREAKING : Ottawa Civic Hosp official says TWO NEW PATIENTS are enroute to hospital . 1 w gunshot wounds . Both stable . @ctvottawa ottnews EVIDENCE: Conservative Minister of Employment and Social Development and Minister for Multiculturalism Jason Kenny announced on Twitter that the soldier shot at the National War Memorial had died, even as the hospital treating the soldier refused to confirm the death. OTTAWA Reuters - A gunman shot and wounded a soldier in Ottawa and then entered the country's parliament buildings chased by police, with at least 30 shots fired, according to media and eyewitness reports on Wednesday. A: let's think step by step.
+INPUT PROMPT > nt unverified
+Based on the evidence provided, we can classify the following rumor as unknown. The evidence mentions that a soldier was shot and wounded in Ottawa, but there is no direct mention of two new patients being enroute to the hospital with gunshot wounds. Therefore, without further evidence or confirmation, we cannot determine the truthfulness of this specific rumor.
+PREDICTION > unverified (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as abductive reasoning. Abductive reasoning involves making an inference to the best explanation based on the available evidence. In this case, the evidence provided does not directly confirm or deny the rumor, so the reasoning is based on the best possible explanation given the information provided.
+
+Q: As an expert journalist, classify the following rumour as true, false, or unknown using only the provided evidence. RUMOUR: SIEGE ERUPTS : At least 7 Hostages released . Police fire live ammunition as they move into building . sydneysiege EVIDENCE: Police refused to say how many hostages were inside the cafe, what Police believed the gunman's motives might be, whether the gunman's had made any demands or whether the hostages who fled the cafe escaped or were released. A: let's think step by step.
+INPUT PROMPT > nt unverified
+Based on the evidence provided, it is unknown whether the rumor is true or false. The evidence states that the police refused to provide information about the number of hostages, the gunman's motives, any demands made, or the status of the hostages who fled. Without this information, it is not possible to determine the accuracy of the rumor.
+PREDICTION > false (wrong)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as abductive reasoning. Abductive reasoning involves making an inference or hypothesis based on the available evidence, even if it is not conclusive. In this case, the evidence provided is incomplete, and the conclusion reached is that the truth of the rumor is unknown.
+
+Q: As an expert journalist, classify the following rumour as true, false, or unknown using only the provided evidence. RUMOUR: Just did a google map search . There are 2 Quick Trips in Ferguson and they are on opposite ends of the town . Did MikeBrown teleport ? EVIDENCE: More generally, business owners are used to being in charge, and they don't want to be hassled by people they have come to think of as mere employees, not as breadwinners for their families or citizens of the same city and country. Talking to people on Twitter about Mike Brown and what's happening in Ferguson right now, I've noticed again how easily folks get distracted when Black people are murdered by the police. Residents in Ferguson, and Brown's family, have accused the police of deliberately timing the release of surveillance video of the alleged robbery to shift the blame to Brown's, and the latest revelations are unlikely to quiet that suspicion. A: let's think step by step.
+INPUT PROMPT > nt unverified
+As an expert journalist, it is important to base conclusions on factual evidence rather than speculation or unrelated information. The provided evidence does not directly address the rumor about Mike Brown teleporting. Therefore, based on the evidence provided, it is unknown whether the rumor is true, false, or unknown.
+PREDICTION > unverified (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as abductive reasoning. Abductive reasoning involves making an inference or conclusion based on the best available explanation or hypothesis, even if it is not necessarily proven or certain. In this case, the conclusion that the rumor is unknown is reached based on the lack of direct evidence addressing the rumor.
+
+Q: As an expert journalist, classify the following rumour as true, false, or unknown using only the provided evidence. RUMOUR: Americans are 8 times more likely to be killed by a police officer than by a terrorist . Ferguson EVIDENCE: Local police claim 18-year-old Michael Brown, who was unarmed when he was shot by a police officer may have reached for a police officer's weapon. A: let's think step by step.
+INPUT PROMPT > nt unverified
+As an AI language model, I can provide some analysis based on the evidence provided. However, it is important to note that I am not an expert journalist, and my analysis should be taken as a suggestion rather than a definitive classification. 
+
+Based on the evidence provided, it is difficult to directly classify the rumor as true, false, or unknown. The evidence mentions the case of Michael Brown, an unarmed 18-year-old who was shot by a police officer in Ferguson. The local police claim that Brown may have reached for the officer's weapon. 
+
+To determine the accuracy of the rumor, additional evidence and data would be needed. Specifically, statistical data on the number of Americans killed by police officers and the number killed by terrorists would be necessary. Without this information, it is challenging to make a definitive classification of the rumor.
+
+It is important to conduct thorough research and gather more evidence before drawing conclusions about the accuracy of such claims.
+PREDICTION > unverified (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as abductive reasoning. Abductive reasoning involves making an inference or forming a hypothesis based on the available evidence, even if it does not provide a definitive answer. In this case, the evidence provided is used to form a hypothesis about the accuracy of the rumor, but without conclusive data, a definitive classification cannot be made.
+
+Q: As an expert journalist, classify the following rumour as true, false, or unknown using only the provided evidence. RUMOUR: Ottawa hospital confirms it's treating 3 OttawaShooting victims - 2 in stable condition EVIDENCE: One victim was taken to a London hospital in stable condition, but suffering from serious injuries. A: let's think step by step.
+INPUT PROMPT > nt unverified
+Based on the evidence provided, we can classify the rumor as unknown. The evidence states that one victim was taken to a London hospital in stable condition but with serious injuries. However, it does not provide any information about the Ottawa hospital treating three victims or their conditions. Therefore, without further evidence, we cannot determine the truth or falsehood of the rumor.
+PREDICTION > false (wrong)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as abductive reasoning. Abductive reasoning involves making an inference or hypothesis based on the available evidence, even if it does not provide a definitive answer. In this case, the evidence is used to make an educated guess about the truth or falsehood of the rumor.
+
+Q: As an expert journalist, classify the following rumour as true, false, or unknown using only the provided evidence. RUMOUR: Paris police : 10 dead , 5 injured at CharlieHebdo shooting EVIDENCE: French police were deployed en masse throughout Paris and several other parts of the country on Saturday where French police successfully enforced a ban on protests against a US-made film and cartoons published by French magazine Charlie Hebdo ridiculing the Prophet Mohammed, detaining at least 21 people in Paris. A: let's think step by step.
+INPUT PROMPT > nt unverified
+Based on the evidence provided, it is not possible to classify the rumor as true, false, or unknown. The evidence only mentions the deployment of French police and the enforcement of a ban on protests, but it does not provide any information about the reported shooting at Charlie Hebdo or the number of casualties. Therefore, the classification of the rumor remains unknown based on the given evidence.
+PREDICTION > unverified (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as abductive reasoning. Abductive reasoning involves making an inference to the best explanation based on the available evidence. In this case, the evidence provided is used to make an inference about the classification of the rumor as true, false, or unknown.
+
+Q: As an expert journalist, classify the following rumour as true, false, or unknown using only the provided evidence. RUMOUR: ferguson has had ZERO homicides in the last year . ' Black on black crime is our real problem ' folks where y'all at ? EVIDENCE: Witnesses said the black Ferguson, Mo., teen was unarmed and had the black Ferguson, Mo., teen's hands up. A: let's think step by step.
+INPUT PROMPT > nt unverified
+As an AI language model, I can provide some guidance on how to approach classifying the rumor based on the provided evidence. However, it's important to note that I cannot independently verify the accuracy of the evidence or the rumor itself. Here's a step-by-step analysis:
+
+1. Identify the rumor: The rumor states that Ferguson had zero homicides in the last year and implies that "black on black crime" is the real problem.
+
+2. Examine the evidence: The evidence provided mentions a black Ferguson teen being unarmed and having their hands up, but it does not directly address the rumor about the number of homicides in Ferguson.
+
+3. Evaluate the evidence's relevance: The evidence seems to be unrelated to the rumor about homicides in Ferguson. It focuses on a specific incident involving a black teen and their interaction with law enforcement.
+
+4. Determine the classification: Based on the evidence provided, it is unknown whether the rumor about zero homicides in Ferguson is true or false. The evidence does not provide any direct information about the number of homicides in the area.
+
+It's important to conduct further research, gather additional evidence, or consult official sources to verify the accuracy of the rumor.
+PREDICTION > false (wrong)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as abductive reasoning. Abductive reasoning involves making an inference to the best explanation based on the available evidence. In this case, the evidence provided is examined, and a conclusion is drawn based on the best explanation that can be derived from the evidence.
+
+Q: As an expert journalist, classify the following rumour as true, false, or unknown using only the provided evidence. RUMOUR: I'm not retweeting the pic of MikeBrown's body , but evidently he lost the hat and changed his shoes and shorts . And lost 40 lbs . Ferguson EVIDENCE: Prior to Thursday morning, there were at least four different police departments on the ground in Ferguson at any given time: the Ferguson police themselves, the St. Louis County police where Ferguson is located, police from the City of St. Louis, and police from the Missouri Highway Patrol. A witness stated police pulled up to he and a friend and said Get the fuck on the sidewalk. It was a warm day, and he wore denim shorts, a black-and-white pin-striped shirt, and black sneakers. A: let's think step by step.
+INPUT PROMPT > nt unverified
+As an expert journalist, it is important to analyze the evidence provided and evaluate its relevance to the rumor in question. 
+
+The evidence provided does not directly address the rumor about Mike Brown's body, his change in appearance, or weight loss. The evidence only mentions the presence of multiple police departments in Ferguson and a witness's description of their encounter with the police.
+
+Therefore, based on the evidence provided, it is not possible to classify the rumor as true, false, or unknown. The evidence does not provide any information or context related to the rumor itself.
+PREDICTION > unverified (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as abductive reasoning. Abductive reasoning involves making an inference or hypothesis based on the available evidence, even if it does not provide a definitive answer. In this case, the evidence provided does not directly address the rumor, but the reasoning attempts to make an inference based on the available information.
+
+Q: As an expert journalist, classify the following rumour as true, false, or unknown using only the provided evidence. RUMOUR: Canadian authorities ' were aware of potential Isis-style attacks for weeks ' OttawaShooting EVIDENCE: The overarching goal of the Strategy is: to counter domestic and international terrorism in order to protect Canada, Canadians and Canadian interests. A: let's think step by step.
+INPUT PROMPT > nt unverified
+As an AI language model, I can provide some analysis based on the evidence provided. However, it's important to note that I cannot access real-time information or verify the accuracy of specific claims or rumors. 
+
+Based on the evidence provided, which states the overarching goal of the Canadian authorities' strategy is to counter domestic and international terrorism, it does not directly confirm or refute the rumor that Canadian authorities were aware of potential ISIS-style attacks for weeks before the Ottawa shooting. 
+
+Therefore, based solely on the evidence provided, the classification of the rumor as true, false, or unknown cannot be determined. Additional information or evidence would be required to make a more accurate classification.
+PREDICTION > unverified (correct)
+Was the above reasoning deductive, inductive, abductive or analogical reasoning?
+The above reasoning can be classified as deductive reasoning. Deductive reasoning is a logical process in which conclusions are drawn from given premises or evidence. In this case, the evidence provided is the overarching goal of the Canadian authorities' strategy, and the conclusion is that the rumor cannot be classified as true, false, or unknown based solely on that evidence. The reasoning follows a logical deduction from the evidence to the conclusion.
+
+PREDICTED
+F T U
+[[10  4 11]
+ [ 1 17 12]
+ [ 6  6 22]]
+
+CORRECT
+{'simple': 22, 'complex': 13, 'nt': 14}
+WRONG
+{'simple': 8, 'complex': 17, 'nt': 15}
